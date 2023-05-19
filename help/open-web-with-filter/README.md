@@ -17,11 +17,11 @@
 
 ![](https://github.com/texopher/gophilter/blob/main/help/open-web-with-filter/screenshot-1.png?raw=true)
 
-#### 2. Click on 'Enter web url', then enter url of web page which you would like to display.
+#### 2. Click on 'Enter web url', then enter url of web page which you would like to display. For example, https://en.wikipedia.org/wiki/Thomas_Edison
 
 ![](https://github.com/texopher/gophilter/blob/main/help/open-web-with-filter/screenshot-2.png?raw=true)
 
-#### 2. Click on 'Enter filter url', then enter url of filter file which you would like to apply to this web page.
+#### 2. Click on 'Enter filter url', then enter url of filter file which you would like to apply to this web page. For example, https://raw.githubusercontent.com/texopher/gophilter/main/filter/public/org/wikipedia/en/en.wikipedia.org__443.txt
 
 #### 3. Click on 'Open'. You are redirected to new page with link 'Web page with filter'.
 
