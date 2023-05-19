@@ -13,7 +13,7 @@
 %
 ```
 
-#### 1. On home page of texopher site, click on 'Open web with filter' or 'Open js web with filter'.
+#### 1. On [home page](http://texopher.com) of texopher site, click on 'Open web with filter' or 'Open js web with filter'.
 
 ![](https://github.com/texopher/gophilter/blob/main/help/open-web-with-filter/screenshot-1.png?raw=true)
 
