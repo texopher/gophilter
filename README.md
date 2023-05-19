@@ -19,7 +19,12 @@
 
 First purpose of this repository is filtering gopher text which is converted from HTML
 to be more readable.
+
+[ HOW TO USE ]
+
 ```
+[How to open web page with filter](https://github.com/texopher/gophilter/tree/main/help/open-web-with-filter)
+
 
 ```
 $
