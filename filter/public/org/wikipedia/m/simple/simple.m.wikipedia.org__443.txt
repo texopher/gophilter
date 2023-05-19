@@ -1,0 +1,13 @@
+gophilter=yes
+license= Creative Commons Attribution-ShareAlike
+replace_start_1_1=
+replace_end_1_1=
+replace_same_1_1=
+replace_regex_1_1=
+replace_include_1_1=Edit
+replace_for_1_1=Edit
+replace_by_1_1=
+cut_line_include_1=Home Random Nearby Log in Settings Give to Wikipedia About Wikipedia
+cut_line_include_2=The English used in this article or section may not be easy for everybody to understand.
+cut_line_include_3=Languages Afrikaans Alemannisch 
+cut_line_same_1=Contents
