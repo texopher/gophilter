@@ -13,9 +13,9 @@
 %
 ```
 
-```
+#### 1. On home page of texopher site, pick 'Open web with filter' or 'Open js web with filter'
 
-```
+![](https://github.com/texopher/gophilter/blob/main/help/open-web-with-filter/screenshot-1.png?raw=true)
 
 ```
 $
