@@ -13,6 +13,7 @@ cut_head_same_9=Popular in the Community
 cut_head_same_10=You May Like
 cut_head_same_11=Trending
 cut_head_same_12=More In Business
-cut_first_same_1=Senior Reporter
+cut_first_same_1=Labor Reporter, HuffPost
+cut_first_same_2=Senior Reporter
 cut_last_same_1=Suggest a correction
 
