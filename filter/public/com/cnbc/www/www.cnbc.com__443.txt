@@ -1,2 +1,9 @@
 gophilter=yes
 license=© 2023 CNBC LLC
+cut_line_same_1=Got a confidential news tip? We want to hear from you.
+cut_line_same_2=Sign up for free newsletters and get more CNBC delivered to your inbox
+cut_line_same_3=Get this delivered to your inbox, and more info about our products and services.
+cut_line_same_4=© 2023 CNBC LLC. All Rights Reserved. A Division of NBCUniversal
+cut_line_same_5=Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.
+cut_line_same_6=Data also provided by
+cut_line_start_1=Disclosure:
