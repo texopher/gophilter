@@ -19,10 +19,4 @@ cut_head_same_3=To play this video you need to enable JavaScript in your browser
 
 cut_line_start_2=Terms of Use
 
-cut_last_start_1=Related Topics
-
-
-
-
-
-chaos=no
+cut_last_include_1=Related Topics
