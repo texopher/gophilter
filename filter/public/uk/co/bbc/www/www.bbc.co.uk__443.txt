@@ -11,3 +11,8 @@ cut_line_same_4=To play this video you need to enable JavaScript in your browser
 
 cut_line_start_1=Watch:
 
+cut_head_same_1=BBC News Services
+
+cut_head_same_2=This video can not be played
+
+
