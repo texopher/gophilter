@@ -1,3 +1,10 @@
 gophilter=yes
 license=©2023 BuzzFeed, Inc. All rights reserved.
+cut_head_same_1=Main Menu
+cut_head_same_2=Special Projects
+cut_head_same_3=From Our Partners
+cut_head_same_4=International
+cut_head_same_5=Follow Us
+cut_head_same_6=What's Hot
+
 
