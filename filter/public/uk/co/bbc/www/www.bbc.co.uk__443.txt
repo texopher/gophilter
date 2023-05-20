@@ -18,3 +18,5 @@ cut_head_same_2=This video can not be played
 cut_head_same_3=To play this video you need to enable JavaScript in your browser.
 
 cut_line_start_1=Terms of Use
+
+chaos=no
