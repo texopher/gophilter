@@ -1,7 +1,7 @@
 gophilter=yes
 license=© 2023 BBC
-cut_line_same_1=© 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
-cut_line_same_2=BBC News Services
-cut_line_same_3=This video can not be played
-cut_line_same_4=To play this video you need to enable JavaScript in your browser.
+cut_line_include_1=© 2023 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+cut_line_include_2=BBC News Services
+cut_line_include_3=This video can not be played
+cut_line_include_4=To play this video you need to enable JavaScript in your browser.
 
