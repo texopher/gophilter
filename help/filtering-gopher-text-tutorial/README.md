@@ -34,6 +34,8 @@ contribute to 'gophilter' project or use them as the personal project.
 
 [2. Specify site's license](002-license/README.md)
 
+[3. Remove distracted lines](003-cut-line/README.md)
+
 ```
 $
 ```
