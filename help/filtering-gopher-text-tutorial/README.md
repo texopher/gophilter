@@ -22,7 +22,7 @@ World wide web is great but it has many distractions (ads, medias, etc.). That i
 of having 'texopher - Textify World Wide Web'. HTML is converted to gopher text, then it is 
 filtered by filter file from 'gophilter' project. The results is that users only view main 
 text without distractions like ads. This tutorial guides you how to make filter files, and 
-contribute to 'gophilter' project or use it as personal project.
+contribute to 'gophilter' project or use them as the personal project.
 
 =========================================
                Contents
