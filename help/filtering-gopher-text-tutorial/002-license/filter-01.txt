@@ -1,0 +1,2 @@
+gophilter=yes
+license=Creative Commons Attribution-ShareAlike
