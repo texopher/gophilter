@@ -13,6 +13,7 @@ cut_line_same_10=Copy link
 cut_line_same_11=Related Topics
 cut_head_same_1=To play this video you need to enable JavaScript in your browser.
 cut_head_same_2=Related Topics
+cut_head_same_3=More on this story
 cut_line_start_1=Watch:
 cut_last_same_1====== Related Topics =====
 cut_last_same_2=~~~~~ Related Topics
