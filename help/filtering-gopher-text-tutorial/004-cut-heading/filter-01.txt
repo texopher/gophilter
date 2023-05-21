@@ -1,3 +1,3 @@
 gophilter=yes
-cut_line_start_1=More on
-cut_line_start_2=Top
+cut_head_start_1=More on
+cut_head_start_2=Top
