@@ -1,0 +1,3 @@
+gophilter=yes
+cut_line_regex_1=^By
+cut_line_regex_2=^BBC
