@@ -1,0 +1,3 @@
+gophilter=yes
+cut_line_same_1=BBC News Services
+cut_line_same_2=Published
