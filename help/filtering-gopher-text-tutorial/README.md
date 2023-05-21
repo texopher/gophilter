@@ -32,6 +32,7 @@ contribute to 'gophilter' project or use them as the personal project.
 
 [1. Blank filter file](001-blank-filter/README.md)
 
+[2. Specify site's license](002-license/README.md)
 
 ```
 $
