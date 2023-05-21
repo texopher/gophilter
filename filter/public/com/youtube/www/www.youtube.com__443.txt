@@ -1,0 +1,4 @@
+gophilter=yes
+hard_read=yes
+hard_read_all=yes
+
