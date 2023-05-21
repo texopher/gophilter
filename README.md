@@ -23,7 +23,9 @@ to be more readable.
 [ HOW TO USE ]
 
 ```
-[How to open web page with filter](https://github.com/texopher/gophilter/tree/main/help/open-web-with-filter)
+[1. How to open web page with filter](https://github.com/texopher/gophilter/tree/main/help/open-web-with-filter)
+
+[2. Filtering gopher text tutorial](https://github.com/texopher/gophilter/tree/main/help/filtering-gopher-text-tutorial)
 
 
 ```
