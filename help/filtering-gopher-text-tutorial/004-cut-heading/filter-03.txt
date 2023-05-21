@@ -1,0 +1,3 @@
+gophilter=yes
+cut_head_same_1=Related Topics
+cut_head_same_2=More on this story
