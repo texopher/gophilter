@@ -16,6 +16,7 @@ cut_head_same_2=Related Topics
 cut_line_start_1=Watch:
 cut_last_same_1====== Related Topics =====
 cut_last_same_2=~~~~~ Related Topics
+cut_last_same_3====== More on this story =====
 cut_line_end_1=ago
 
 
