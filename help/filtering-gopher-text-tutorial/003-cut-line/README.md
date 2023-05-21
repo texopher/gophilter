@@ -115,8 +115,8 @@ Filter URL: https://raw.githubusercontent.com/texopher/gophilter/main/help/filte
 
 ----- Filter -----
 gophilter=yes
-cut_line_regex_1=^By*
-cut_line_regex_2=^BBC*
+cut_line_regex_1=^(By).*$
+cut_line_regex_2=^(BBC).*
 ------------------
 
 Web URL: https://www.bbc.co.uk/news/world-europe-65661251
