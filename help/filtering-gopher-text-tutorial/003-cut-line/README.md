@@ -31,6 +31,10 @@ These properties ends with a number (starting from 1).
 0. Open page with blank filter
   -------------------------------------
 
+----- Filter -----
+gophilter=yes
+------------------
+
 Web URL: https://www.bbc.co.uk/news/world-europe-65661251
 Filter URL: https://raw.githubusercontent.com/texopher/gophilter/main/filter/blank.txt
 ```
