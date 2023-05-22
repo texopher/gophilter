@@ -1,0 +1,4 @@
+gophilter=yes
+cut_head_end_1=Topics
+cut_line_end_1=Topics
+cut_last_end_1=Topics
