@@ -1,4 +1,5 @@
 gophilter=yes
+license=Meta © 2023
 hard_read=yes
 hard_read_all=yes
 cut_line_include_1=is on Facebook. To connect
@@ -13,3 +14,6 @@ cut_line_same_7=See more
 cut_line_same_8=Others With a Similar Name
 cut_line_same_9=Cancel
 cut_line_same_10=Loading...
+cut_line_same_11=You must log in first.
+cut_line_same_12=Log in
+cut_line_same_13=Meta © 2023
