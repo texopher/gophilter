@@ -42,6 +42,11 @@ contribute to 'gophilter' project or use them as the personal project.
 
 [6. Remove from specified line to ending](006-cut-last-block/README.md)
 
+[7. Remove from beginning to specified heading](007-cut-first-block-heading/README.md)
+
+[8. Remove from specified heading to ending](008-cut-last-block-heading/README.md)
+
+
 ```
 $
 ```
