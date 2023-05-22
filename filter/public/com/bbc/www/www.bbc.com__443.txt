@@ -1,0 +1,6 @@
+gophilter=yes
+license=© 2023 BBC
+cut_last_same_1=Chủ đề liên quan
+cut_line_same_1=Bỏ qua để xem nội dung
+cut_line_same_2=Tin chính Việt Nam Thế giới Diễn đàn Kinh tế Nhịp sống mới Thể thao Video
+
