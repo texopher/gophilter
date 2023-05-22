@@ -40,6 +40,8 @@ contribute to 'gophilter' project or use them as the personal project.
 
 [5. Remove from beginning to specified line](005-cut-first-block/README.md)
 
+[6. Remove from specified line to ending](006-cut-last-block/README.md)
+
 ```
 $
 ```
