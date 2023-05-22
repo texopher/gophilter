@@ -38,6 +38,8 @@ contribute to 'gophilter' project or use them as the personal project.
 
 [4. Remove distracted headings](004-cut-heading/README.md)
 
+[5. Remove from beginning to specified line](005-cut-first-block/README.md)
+
 ```
 $
 ```
