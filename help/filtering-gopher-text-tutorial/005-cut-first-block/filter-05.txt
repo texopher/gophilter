@@ -1,0 +1,3 @@
+gophilter=yes
+cut_first_regex_1=^(Image).*$
+cut_first_regex_2=^(By).*
