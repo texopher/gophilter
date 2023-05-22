@@ -107,19 +107,21 @@ Filter URL: https://raw.githubusercontent.com/texopher/gophilter/main/help/filte
 
 ```
 =========================================
-4. Remove from line which contains 
+4. Remove from heading which contains 
    specified text to ending
   -------------------------------------
 
 ----- Filter -----
 gophilter=yes
+cut_head_include_1=Related
+cut_line_include_1=Related
 cut_last_include_1=Related
 ------------------
 
 Web URL: https://www.bbc.co.uk/news/world-europe-65661251
-Filter URL: https://raw.githubusercontent.com/texopher/gophilter/main/help/filtering-gopher-text-tutorial/006-cut-last-block/filter-04.txt
+Filter URL: https://raw.githubusercontent.com/texopher/gophilter/main/help/filtering-gopher-text-tutorial/008-cut-last-block-heading/filter-04.txt
 ```
-[Open example](http://texopher.com/g?url=gopher://texopher.com/x/w/g/i/https_58__47__47_raw_46_githubusercontent_46_com_47_texopher_47_gophilter_47_main_47_help_47_filtering_45_gopher_45_text_45_tutorial_47__48__48__54__45_cut_45_last_45_block_47_filter_45__48__52__46_txt/https_58__47__47_www_46_bbc_46_co_46_uk_47_news_47_world_45_europe_45__54__53__54__54__49__50__53__49_)
+[Open example](http://texopher.com/g?url=gopher://texopher.com/x/w/g/i/https_58__47__47_raw_46_githubusercontent_46_com_47_texopher_47_gophilter_47_main_47_help_47_filtering_45_gopher_45_text_45_tutorial_47__48__48__56__45_cut_45_last_45_block_45_heading_47_filter_45__48__52__46_txt/https_58__47__47_www_46_bbc_46_co_46_uk_47_news_47_world_45_europe_45__54__53__54__54__49__50__53__49_)
 
 ```
 =========================================
