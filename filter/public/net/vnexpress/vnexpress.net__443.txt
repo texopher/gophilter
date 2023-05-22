@@ -1,0 +1,6 @@
+gophilter=yes
+license=© 1997-2023. Toàn bộ bản quyền thuộc VnExpress
+cut_line_same_1=Chia sẻ Copy link thành công
+cut_line_same_2=Trở lại Số hóa
+cut_line_start_1=Số hóa Công nghệ Đời sống số
+cut_line_start_2=Tin theo khu vực
