@@ -125,14 +125,14 @@ Filter URL: https://raw.githubusercontent.com/texopher/gophilter/main/help/filte
 
 ----- Filter -----
 gophilter=yes
-cut_first_regex_1=^(Image).*$
-cut_first_regex_2=^(By).*
+cut_head_regex_1=^.*(tin).*$
+cut_first_regex_1=^.*(tin).*$
 ------------------
 
 Web URL: https://truyenfull.vn/tao-tac/
-Filter URL: https://raw.githubusercontent.com/texopher/gophilter/main/help/filtering-gopher-text-tutorial/005-cut-first-block/filter-05.txt
+Filter URL: https://raw.githubusercontent.com/texopher/gophilter/main/help/filtering-gopher-text-tutorial/007-cut-first-block-heading/filter-05.txt
 ```
-[Open example](http://texopher.com/g?url=gopher://texopher.com/x/w/g/i/https_58__47__47_raw_46_githubusercontent_46_com_47_texopher_47_gophilter_47_main_47_help_47_filtering_45_gopher_45_text_45_tutorial_47__48__48__53__45_cut_45_first_45_block_47_filter_45__48__53__46_txt/https_58__47__47_www_46_bbc_46_co_46_uk_47_news_47_world_45_europe_45__54__53__54__54__49__50__53__49_)
+[Open example](http://texopher.com/g?url=gopher://texopher.com/x/w/g/i/https_58__47__47_raw_46_githubusercontent_46_com_47_texopher_47_gophilter_47_main_47_help_47_filtering_45_gopher_45_text_45_tutorial_47__48__48__55__45_cut_45_first_45_block_45_heading_47_filter_45__48__53__46_txt/https_58__47__47_truyenfull_46_vn_47_tao_45_tac_47_)
 
 ```
 $
