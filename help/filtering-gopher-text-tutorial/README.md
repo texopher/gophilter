@@ -36,6 +36,8 @@ contribute to 'gophilter' project or use them as the personal project.
 
 [3. Remove distracted lines](003-cut-line/README.md)
 
+[4. Remove distracted headings](004-cut-heading/README.md)
+
 ```
 $
 ```
