@@ -118,7 +118,7 @@ Filter URL: https://raw.githubusercontent.com/texopher/gophilter/main/help/filte
 
 ```
 =========================================
-5. Remove from beginning to line which 
+5. Remove from beginning to heading which 
    matches java regex pattern to 
    specified text
   -------------------------------------
