@@ -1,0 +1,3 @@
+gophilter=yes
+cut_head_end_1=truyện
+cut_first_end_1=truyện
