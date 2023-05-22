@@ -1,0 +1,3 @@
+gophilter=yes
+cut_first_same_1=Image source, Reuters
+cut_first_same_2=By Sam Hancock
