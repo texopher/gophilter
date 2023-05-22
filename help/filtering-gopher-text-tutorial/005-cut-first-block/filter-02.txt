@@ -1,0 +1,3 @@
+gophilter=yes
+cut_first_end_1=, Reuters
+cut_first_end_2=Sam Hancock
