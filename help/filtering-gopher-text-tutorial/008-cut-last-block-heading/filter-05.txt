@@ -1,0 +1,4 @@
+gophilter=yes
+cut_head_regex_1=^(Related).*$
+cut_line_regex_1=^.*(Related).*$
+cut_last_regex_1=^.*(Related).*$
