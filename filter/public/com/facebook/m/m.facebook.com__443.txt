@@ -1,0 +1,15 @@
+gophilter=yes
+hard_read=yes
+hard_read_all=yes
+cut_line_include_1=is on Facebook. To connect
+cut_line_include_2=Others Named
+cut_line_same_1=or
+cut_line_same_2=Friends
+cut_line_same_3=Photos
+cut_line_same_4=Videos
+cut_line_same_5=Photos
+cut_line_same_6=Log in or Create an account to see photos of Rashid Butta
+cut_line_same_7=See more
+cut_line_same_8=Others With a Similar Name
+cut_line_same_9=Cancel
+cut_line_same_10=Loading...
