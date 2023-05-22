@@ -1,0 +1,3 @@
+gophilter=yes
+cut_head_regex_1=^.*(tin).*$
+cut_first_regex_1=^.*(tin).*$
