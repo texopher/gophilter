@@ -19,6 +19,7 @@
   -------------------------------------
 
 https://www.thedailybeast.com/nascar-driver-bubba-wallace-hit-with-more-racism
+https://www.thedailybeast.com/obsessed/summer-movie-preview-2023-20-most-exciting-films
 
 ```
 
