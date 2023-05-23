@@ -21,6 +21,7 @@
 https://www.rollingstone.com/culture/culture-news/nascar-investigation-bubba-wallace-radio-hack-1234739603/
 https://www.rollingstone.com/tv-movies/tv-movie-recaps/succession-season-4-episode-9-logan-roy-funeral-callback-missed-five-million-dollars-hbo-cousin-greg-mausoleum-1234740003/
 
+https://twitter.com/danielmcfadin/status/1660431194129854465?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Etweet
 
 ```
 
