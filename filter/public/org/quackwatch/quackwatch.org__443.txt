@@ -1,0 +1,8 @@
+gophilter=yes
+license=Center for Inquiry, Inc © 2023 · All Rights Reserved.
+cut_line_same_1=Your Guide to Quackery, Health Fraud, and Intelligent Decisions
+cut_line_start_1=Donate Search Visit Our Affiliated Sites
+cut_line_start_2=Alert: This site works better with javascript. Enable javascript
+cut_head_same_1=Consumer Health: A Guide to Intelligent Decisions
+cut_last_same_1=~~~~~ Consumer Health: A Guide to Intelligent Decisions
+cut_line_same_2=~~~~~ Consumer Health: A Guide to Intelligent Decisions
