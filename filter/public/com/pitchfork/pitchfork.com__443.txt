@@ -1,0 +1,12 @@
+gophilter=yes
+license=© 2023 Condé Nast. All rights reserved.
+cut_last_same_1=Read More
+cut_line_start_1=A daily roundup of the most important stories in
+cut_line_start_2=Tags
+cut_line_same_1=Menu
+cut_line_same_2=Search
+cut_line_same_3=News Reviews Best New Music Features Lists The Pitch Video Podcast Festival
+cut_line_same_4=Facebook
+cut_line_same_5=Twitter
+cut_line_same_6=Facebook
+cut_line_same_7=Twitter
