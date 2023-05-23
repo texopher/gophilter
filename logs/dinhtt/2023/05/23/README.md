@@ -26,6 +26,8 @@ https://twitter.com/danielmcfadin/status/1660431194129854465?ref_src=twsrc%255Eg
 https://www.foxnews.com/entertainment/nick-cannon-doesnt-pay-government-child-support-12-children?dicbo=v2-0otvxSb
 https://www.foxnews.com/sports/bubba-wallace-appears-flip-off-camera-nascar-reportedly-investigating-apparent-hack-drivers-radio
 
+https://www.bubbawallace.com/
+
 ```
 
 ```
