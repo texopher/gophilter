@@ -1,3 +1,4 @@
 gophilter=yes
+license=A
 hard_read=yes
-hard_read_regex_1=^/whistleblower/nocas$
+hard_read_regex_1=^(\\/whistleblower\\/nocas)$
