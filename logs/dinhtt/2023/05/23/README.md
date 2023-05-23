@@ -39,6 +39,13 @@ https://www.al.com/motorsports/2023/05/bubba-wallace-gives-finger-on-tv-nascar-l
 2. Search (google) for 'foo fighters new drummer josh freese'
   -------------------------------------
 
+https://www.nytimes.com/2023/05/22/arts/music/foo-fighters-drummer-freese-hawkins.html
+
+https://www.rollingstone.com/music/music-news/foo-fighters-reveal-josh-freese-new-drummer-1234739298/
+
+https://pitchfork.com/news/foo-fighters-reveal-new-drummer-josh-freese-taylor-hawkins-successor/
+
+
 ```
 
 ```
