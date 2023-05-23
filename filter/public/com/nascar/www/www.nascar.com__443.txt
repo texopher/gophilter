@@ -1,0 +1,6 @@
+gophilter=yes
+license=Copyright © 2023 NASCAR Digital Media, LLC. All rights reserved.
+usediv=yes
+hard_read=yes
+hard_read_all=yes
+
