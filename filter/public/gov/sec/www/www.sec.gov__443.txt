@@ -1,6 +1,7 @@
 gophilter=yes
 hard_read=yes
 hard_read_regex_1=^(\\/whistleblower\\/nocas)$
+hard_read_regex_2=^(\\/whistleblower\\/final-orders-of-the-commission)$
 cut_line_same_1=Search SEC.gov
 cut_line_same_2=Sign up to receive notifications of new listings.
 cut_line_start_1=About Careers Commissioners Contact Reports and Publications
