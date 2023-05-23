@@ -53,6 +53,8 @@ https://www.theguardian.com/music/2023/may/22/foo-fighters-announce-josh-freese-
 
 https://www.cnn.com/2023/05/21/entertainment/foo-fighters-drummer-josh-freese/index.html
 
+https://people.com/music/foo-fighters-josh-freese-new-drummer/
+
 ```
 
 ```
