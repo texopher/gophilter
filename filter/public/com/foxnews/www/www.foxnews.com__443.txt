@@ -1,0 +1,10 @@
+gophilter=yes
+license=©2023 FOX News Network, LLC. All rights reserved.
+cut_first_start_1=Published
+cut_line_same_1=Facebook Twitter Flipboard Comments Print Email
+cut_line_same_2=close
+cut_line_end_1=Check out what's clicking on Foxnews.com.
+cut_line_start_1=U.S. Crime Military Education Terror Immigration Economy Personal Freedoms
+cut_line_start_2=Facebook Twitter Instagram Youtube Flipboard LinkedIn Slack RSS Newsletters
+cut_line_start_3=This material may not be published, broadcast, rewritten, or redistributed.
+
