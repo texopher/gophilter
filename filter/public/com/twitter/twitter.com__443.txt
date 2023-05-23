@@ -1,0 +1,5 @@
+gophilter=yes
+license=© 2023 X Corp.
+hard_read=yes
+hard_read_all=yes
+
