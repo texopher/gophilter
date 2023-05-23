@@ -23,6 +23,11 @@
 Ex: https://www.sec.gov/whistleblower/frequently-asked-questions
 --> Missing H3 tag text
 
+[ Convert span tag ]
+
+Ex: https://www.nascar.com/drivers/bubba-wallace
+--> Text is in span
+
 ```
 
 ```
