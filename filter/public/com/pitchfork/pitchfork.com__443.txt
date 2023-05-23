@@ -10,3 +10,4 @@ cut_line_same_4=Facebook
 cut_line_same_5=Twitter
 cut_line_same_6=Facebook
 cut_line_same_7=Twitter
+cut_line_same_8=Read More
