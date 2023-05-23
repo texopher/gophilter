@@ -19,7 +19,7 @@
   -------------------------------------
 
 https://www.bbc.com/news/entertainment-arts-65669986
-
+https://www.bbc.com/vietnamese/business-65674133?at_medium=RSS&at_campaign=KARANGA
 
 ```
 
