@@ -19,6 +19,7 @@
   -------------------------------------
 
 https://www.tiktok.com/discover/Rashid-Buttar-Died-At-Age-Of-57?lang=en
+https://www.tiktok.com/discover/Rashid-Buttar?lang=en
 
 ```
 
