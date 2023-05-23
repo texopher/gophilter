@@ -29,6 +29,7 @@ https://www.foxnews.com/sports/bubba-wallace-appears-flip-off-camera-nascar-repo
 https://www.bubbawallace.com/
 
 https://www.thedailybeast.com/nascar-driver-bubba-wallace-hit-with-more-racism
+https://www.thedailybeast.com/obsessed/summer-movie-preview-2023-20-most-exciting-films
 
 ```
 
