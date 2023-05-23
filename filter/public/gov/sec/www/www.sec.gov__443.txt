@@ -6,5 +6,9 @@ cut_line_start_1=About Careers Commissioners Contact Reports and Publications
 cut_line_start_2=U.S. Securities and Exchange Commission Divisions
 cut_line_start_3=Office of the Whistleblower Submit a Tip Claim
 cut_line_start_4=~~~~~ Latest News
+cut_line_start_5=~~~~~ Contact Us
 cut_head_same_1=Latest News
+cut_head_same_2=Contact Us
 cut_last_same_1=~~~~~ Latest News
+cut_last_same_2=~~~~~ Contact Us
+
