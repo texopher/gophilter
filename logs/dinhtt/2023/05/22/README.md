@@ -20,6 +20,10 @@
 
 https://m.facebook.com/rashid.butta.75/
 
+https://quackwatch.org/?s%26_sf_s=Rashid%2BA.%2BButtar
+https://quackwatch.org/11ind/feingold/
+
+
 ```
 
 ```
