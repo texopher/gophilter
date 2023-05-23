@@ -20,6 +20,7 @@
 
 https://quackwatch.org/?s%26_sf_s=Rashid%2BA.%2BButtar
 https://quackwatch.org/11ind/feingold/
+https://quackwatch.org/consumer-education/QA/magnet/
 
 ```
 
