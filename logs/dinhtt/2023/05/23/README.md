@@ -47,6 +47,8 @@ https://pitchfork.com/news/foo-fighters-reveal-new-drummer-josh-freese-taylor-ha
 
 https://www.foxnews.com/entertainment/foo-fighters-new-drummer-josh-freese-receives-warm-welcome-from-fans
 
+https://variety.com/2023/music/news/foo-fighters-new-drummer-josh-freese-career-musical-history-1235617641/
+
 ```
 
 ```
