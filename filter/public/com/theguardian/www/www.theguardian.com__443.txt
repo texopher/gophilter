@@ -1,0 +1,9 @@
+gophilter=yes
+license=© 2023 Guardian News & Media Limited or its affiliated companies. All rights reserved.
+cut_last_same_1=Most viewed
+cut_line_same_1=US edition US edition UK edition Australia edition International edition
+cut_line_same_2=Search input
+cut_line_same_3=google-search
+cut_line_same_4=Search
+cut_line_same_5=Film Books Music Art & design TV & radio Stage Classical Games
+cut_line_same_6=Read more
