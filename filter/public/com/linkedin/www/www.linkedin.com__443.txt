@@ -1,0 +1,4 @@
+gophilter=yes
+license=LinkedIn © 2023
+hard_read=yes
+hard_read_all=yes
