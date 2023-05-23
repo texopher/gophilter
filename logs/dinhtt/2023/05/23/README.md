@@ -57,6 +57,8 @@ https://people.com/music/foo-fighters-josh-freese-new-drummer/
 
 https://www.bbc.com/news/entertainment-arts-65669986
 
+https://www.today.com/popculture/music/foo-fighters-new-drummer-josh-freese-rcna85494
+
 ```
 
 ```
