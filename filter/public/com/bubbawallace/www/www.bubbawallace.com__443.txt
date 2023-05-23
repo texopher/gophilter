@@ -1,0 +1,10 @@
+gophilter=yes
+license=© 2020 by Darrell Wallace Motorsports, LLC.
+cut_line_same_1=top of page
+cut_line_same_2=Home
+cut_line_same_3=Shop
+cut_line_same_4=23XI
+cut_line_same_5=Media
+cut_line_same_6=Contact
+cut_line_same_7=More
+cut_line_same_8=Use tab to navigate through the menu items.
