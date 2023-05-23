@@ -112,3 +112,4 @@ cut_line_same_78=ngôn tình hoàn
 cut_line_same_79=truyện kiếm hiệp hay
 cut_line_same_80=truyện tiên hiệp hay
 cut_line_same_81=truyện hệ thống
+use_all_links=yes
