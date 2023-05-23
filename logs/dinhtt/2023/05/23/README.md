@@ -28,6 +28,8 @@ https://www.foxnews.com/sports/bubba-wallace-appears-flip-off-camera-nascar-repo
 
 https://www.bubbawallace.com/
 
+https://www.thedailybeast.com/nascar-driver-bubba-wallace-hit-with-more-racism
+
 ```
 
 ```
