@@ -35,6 +35,10 @@ https://www.thedrive.com/news/youre-not-wanted-in-nascar-bubba-wallace-targeted-
 
 https://www.al.com/motorsports/2023/05/bubba-wallace-gives-finger-on-tv-nascar-looking-into-hacked-radio-go-back-to-where-you-came-from.html
 
+=========================================
+2. Search (google) for 'foo fighters new drummer josh freese'
+  -------------------------------------
+
 ```
 
 ```
