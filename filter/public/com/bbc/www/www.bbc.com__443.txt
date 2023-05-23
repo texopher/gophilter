@@ -27,4 +27,6 @@ cut_line_same_23=Share page
 cut_line_same_24=Copy link
 cut_line_same_25=Home War in Ukraine Climate Video World US & Canada UK Business Tech Science
 cut_line_same_26=Stories Entertainment & Arts Health In Pictures Reality Check World News TV Newsbeat Long Reads
+cut_line_same_27=Tin liên quan
 cut_last_same_1=Related Topics
+cut_last_same_2=Tin liên quan
