@@ -1,3 +1,4 @@
 gophilter=yes
+license=© 2023 TikTok
 hard_read=yes
 hard_read_all=yes
