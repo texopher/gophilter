@@ -1,0 +1,10 @@
+gophilter=yes
+cut_first_end_1=, PEOPLE
+cut_line_end_1=, PEOPLE
+cut_line_same_1=Share Tweet Pin Email
+cut_line_same_2=Newsletter Sign Up
+cut_line_same_3=PEOPLE
+cut_line_same_4=Follow Us
+cut_line_same_5=News Entertainment Royals Lifestyle StyleWatch Shopping About Us PEOPLE Tested Editorial Policy Careers Privacy Policy Contact Us Terms of Service Advertise Do Not Sell My Personal Information
+cut_line_same_6=PEOPLE is part of the Dotdash Meredith publishing family.
+cut_last_same_1=Newsletter Sign Up
