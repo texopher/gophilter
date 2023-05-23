@@ -45,6 +45,7 @@ https://www.rollingstone.com/music/music-news/foo-fighters-reveal-josh-freese-ne
 
 https://pitchfork.com/news/foo-fighters-reveal-new-drummer-josh-freese-taylor-hawkins-successor/
 
+https://www.foxnews.com/entertainment/foo-fighters-new-drummer-josh-freese-receives-warm-welcome-from-fans
 
 ```
 
