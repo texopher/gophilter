@@ -1,0 +1,8 @@
+gophilter=yes
+license=© 2023 NBC UNIVERSAL
+cut_line_same_1=© 2023 NBC UNIVERSAL
+cut_line_same_2=Link copied
+cut_line_same_3=NBC News Logo MSNBC Logo Today Logo
+cut_line_same_4=NBC News Logo MSNBC Logo
+cut_line_same_5=Facebook Pinterest Email SMS Print Whatsapp Reddit Pocket Flipboard Twitter Linkedin
+cut_first_same_1=NBC News Logo MSNBC Logo
