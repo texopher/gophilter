@@ -51,6 +51,8 @@ https://variety.com/2023/music/news/foo-fighters-new-drummer-josh-freese-career-
 
 https://www.theguardian.com/music/2023/may/22/foo-fighters-announce-josh-freese-as-new-drummer-after-taylor-hawkins-death
 
+https://www.cnn.com/2023/05/21/entertainment/foo-fighters-drummer-josh-freese/index.html
+
 ```
 
 ```
