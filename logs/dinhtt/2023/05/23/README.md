@@ -55,6 +55,8 @@ https://www.cnn.com/2023/05/21/entertainment/foo-fighters-drummer-josh-freese/in
 
 https://people.com/music/foo-fighters-josh-freese-new-drummer/
 
+https://www.bbc.com/news/entertainment-arts-65669986
+
 ```
 
 ```
