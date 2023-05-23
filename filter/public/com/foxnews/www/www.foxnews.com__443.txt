@@ -7,4 +7,7 @@ cut_line_end_1=Check out what's clicking on Foxnews.com.
 cut_line_start_1=U.S. Crime Military Education Terror Immigration Economy Personal Freedoms
 cut_line_start_2=Facebook Twitter Instagram Youtube Flipboard LinkedIn Slack RSS Newsletters
 cut_line_start_3=This material may not be published, broadcast, rewritten, or redistributed.
-
+cut_line_same_3=Get the best of Fox News' entertainment coverage, right in your inbox.
+cut_line_same_4=Arrives Weekly
+cut_line_same_5=Subscribed
+cut_line_same_6=You've successfully subscribed to this newsletter!
