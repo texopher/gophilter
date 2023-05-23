@@ -1,0 +1,9 @@
+gophilter=yes
+license=© 2022 Recurrent Ventures. All Rights Reserved.
+cut_line_same_1=Sign Up For Our Newsletters
+cut_line_same_2=The chronicle of car culture, delivered to your inbox.
+cut_line_same_3=© 2022 Recurrent Ventures. All Rights Reserved.
+cut_line_same_4=Articles may contain affiliate links which enable us to share in the revenue of any purchases made.
+cut_line_same_5=Share
+cut_line_end_1=Articles
+cut_line_end_2=default
