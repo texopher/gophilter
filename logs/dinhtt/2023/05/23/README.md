@@ -23,6 +23,9 @@ https://www.rollingstone.com/tv-movies/tv-movie-recaps/succession-season-4-episo
 
 https://twitter.com/danielmcfadin/status/1660431194129854465?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Etweet
 
+https://www.foxnews.com/entertainment/nick-cannon-doesnt-pay-government-child-support-12-children?dicbo=v2-0otvxSb
+https://www.foxnews.com/sports/bubba-wallace-appears-flip-off-camera-nascar-reportedly-investigating-apparent-hack-drivers-radio
+
 ```
 
 ```
