@@ -1,3 +1,7 @@
 gophilter=yes
 license=© 2023 The New York Times Company
 cut_first_start_1=By
+cut_head_same_1=Site Index
+cut_last_same_1=~~~~~ Site Index
+cut_line_same_1=Advertisement
+cut_line_same_2=~~~~~ Site Index
