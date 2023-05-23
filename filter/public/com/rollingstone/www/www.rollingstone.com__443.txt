@@ -1,0 +1,10 @@
+gophilter=yes
+license=© 2023 Rolling Stone, LLC. All rights reserved.
+cut_head_same_1=The Latest
+cut_last_same_1=~~~~~ The Latest
+cut_line_same_1=~~~~~ The Latest
+cut_line_same_2=(Sub)Culture (Sub)Culture News
+cut_line_same_3=Search for:
+cut_line_same_4=Music Politics TV & Movies (Sub)Culture RS Recommends
+cut_line_same_5=Log In Subscribe
+cut_line_same_6=Bad Frequency
