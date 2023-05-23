@@ -1,6 +1,4 @@
 gophilter=yes
 license=© 2023 The New York Times Company
 cut_first_same_1=Give this article
-cut_last_same_1=Advertisement
-cut_line_same_1=Advertisement
-cut_line_same_2=Give this article
+cut_line_same_1=Give this article
