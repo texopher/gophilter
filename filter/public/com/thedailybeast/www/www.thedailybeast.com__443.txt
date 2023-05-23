@@ -2,3 +2,4 @@ gophilter=yes
 license=© 2023 The Daily Beast Company LLC
 cut_first_start_1=Published
 cut_last_same_1=Reporter
+cut_line_same_1=Reporter
