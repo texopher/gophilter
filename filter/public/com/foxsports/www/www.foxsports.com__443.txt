@@ -1,0 +1,6 @@
+gophilter=yes
+license=© 2023 Fox Media LLC and Fox Sports Interactive Media, LLC. All rights reserved.
+usediv=yes
+hard_read=yes
+hard_read_all=yes
+
