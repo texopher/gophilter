@@ -1,5 +1,8 @@
 gophilter=yes
 license=© 2023 The Daily Beast Company LLC
 cut_first_start_1=Published
+cut_first_start_2=Updated
 cut_last_same_1=Reporter
 cut_line_same_1=Reporter
+cut_line_same_2=Keep obsessing! Sign up for the Daily Beast’s Obsessed newsletter and follow us on Facebook, Twitter, Instagram and TikTok.
+cut_line_same_3=Got a tip? Send it to The Daily Beast here.
