@@ -18,6 +18,11 @@
 1. Search (google) for 'north carolina gov roy cooper'
   -------------------------------------
 
+https://www.foxnews.com/media/north-carolina-gov-roy-cooper-declares-state-emergency-school-choice-bill
+
+https://governor.nc.gov/
+https://governor.nc.gov/about-first-family/roy-cooper
+https://governor.nc.gov/about-first-family/north-carolina-first-lady-kristin-cooper
 
 ```
 
