@@ -1,0 +1,8 @@
+gophilter=yes
+license=Copyright 2023 Nexstar Media Inc. All rights reserved.
+cut_last_same_1=Submit
+cut_line_same_1=Please enter a search term.
+cut_head_same_1=Primary Menu
+cut_line_start_1=by:
+cut_line_start_2=Posted:
+cut_line_start_3=Updated:
