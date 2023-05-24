@@ -20,6 +20,7 @@
 
 https://governor.nc.gov/
 https://governor.nc.gov/about-first-family/roy-cooper
+https://governor.nc.gov/about-first-family/north-carolina-first-lady-kristin-cooper
 
 ```
 
