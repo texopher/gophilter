@@ -33,6 +33,9 @@ https://en.wikipedia.org/wiki/Roy_Cooper
 https://myfox8.com/news/north-carolina/north-carolina-gov-roy-cooper-declares-state-of-emergency-for-public-education/
 https://myfox8.com/news/north-carolina/former-north-carolina-nurse-gets-4-years-in-prison-for-tampering-with-painkillers/
 
+https://roycooper.com/
+https://roycooper.com/meet-roy/
+
 ```
 
 ```
