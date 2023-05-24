@@ -1,0 +1,12 @@
+gophilter=yes
+license=© 2023 Yahoo. All rights reserved.
+cut_line_same_1=Yahoo News Yahoo News
+cut_line_same_2=Sign in to view your mail
+cut_line_same_3=The 360
+cut_line_same_4=Skullduggery Podcast
+cut_line_same_5=Conspiracyland
+cut_line_same_6=Advertisement
+cut_line_same_7=Story continues
+cut_line_same_8=~~~~~ TRENDING
+cut_head_same_1=TRENDING
+cut_last_same_1=~~~~~ TRENDING
