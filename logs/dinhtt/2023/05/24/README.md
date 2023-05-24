@@ -36,6 +36,8 @@ https://myfox8.com/news/north-carolina/former-north-carolina-nurse-gets-4-years-
 https://roycooper.com/
 https://roycooper.com/meet-roy/
 
+https://en.wikipedia.org/wiki/Roy_Cooper
+
 ```
 
 ```
