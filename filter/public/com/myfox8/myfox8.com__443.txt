@@ -4,3 +4,4 @@ cut_last_same_1=Submit
 cut_line_same_1=Please enter a search term.
 cut_line_same_2=Submit
 cut_head_same_1=Primary Menu
+cut_first_start_1=Updated:
