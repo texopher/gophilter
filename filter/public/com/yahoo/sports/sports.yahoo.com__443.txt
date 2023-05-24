@@ -1,2 +1,5 @@
 gophilter=yes
 license=© 2023 Yahoo. All rights reserved.
+cut_first_same_1=Writer
+cut_line_same_1=Writer
+cut_line_same_2=Advertisement
