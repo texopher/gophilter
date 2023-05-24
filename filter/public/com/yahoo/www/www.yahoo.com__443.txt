@@ -1,0 +1,11 @@
+gophilter=yes
+license=© 2023 Yahoo. All rights reserved.
+cut_first_same_1=In this article:
+cut_line_same_1=In this article:
+cut_line_same_2=Oops!
+cut_line_same_3=Something went wrong.
+cut_line_same_4=Please try again later.
+cut_line_same_5=More content below
+cut_line_same_6=~~~~~ TRENDING
+cut_head_same_1=TRENDING
+cut_last_same_1=~~~~~ TRENDING
