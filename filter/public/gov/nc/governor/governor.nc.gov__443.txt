@@ -1,0 +1,18 @@
+gophilter=yes
+cut_line_same_1=Column Paragraph
+cut_line_same_2=How you know
+cut_line_same_3=State Government websites value user privacy. To learn more, view our full privacy policy.
+cut_line_same_4=Secure websites use HTTPS certificates. A lock icon or https:// means you’ve safely connected to the official website.
+cut_line_same_5=Main menu
+cut_line_same_6=Search
+cut_line_same_7=Site Page Hero Image
+cut_line_same_8=~~~~~ Get Email Alerts
+cut_line_same_9=This field is required
+cut_head_same_1=Utility Menu
+cut_head_same_2=Get Email Alerts
+cut_head_start_1=Tweets by
+cut_line_start_1=Read more about
+cut_line_start_2=~~~~~ Tweets by
+cut_line_start_3=Sign up to receive updates from
+cut_last_start_1=~~~~~ Tweets by
+
