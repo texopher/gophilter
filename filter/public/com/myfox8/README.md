@@ -19,6 +19,7 @@
   -------------------------------------
 
 https://myfox8.com/news/north-carolina/north-carolina-gov-roy-cooper-declares-state-of-emergency-for-public-education/
+https://myfox8.com/news/north-carolina/former-north-carolina-nurse-gets-4-years-in-prison-for-tampering-with-painkillers/
 
 ```
 
