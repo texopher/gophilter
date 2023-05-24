@@ -24,6 +24,14 @@ https://governor.nc.gov/
 https://governor.nc.gov/about-first-family/roy-cooper
 https://governor.nc.gov/about-first-family/north-carolina-first-lady-kristin-cooper
 
+https://twitter.com/NC_Governor?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor
+
+https://twitter.com/NC_Governor/status/1660722341930778624?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Etweet
+
+https://en.wikipedia.org/wiki/Roy_Cooper
+
+https://myfox8.com/news/north-carolina/north-carolina-gov-roy-cooper-declares-state-of-emergency-for-public-education/
+
 ```
 
 ```
