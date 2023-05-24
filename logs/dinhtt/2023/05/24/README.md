@@ -38,6 +38,8 @@ https://roycooper.com/meet-roy/
 
 https://en.wikipedia.org/wiki/Roy_Cooper
 
+https://www.nga.org/governor/roy-cooper/
+
 ```
 
 ```
