@@ -1,0 +1,2 @@
+gophilter=yes
+license=© 2023 Yahoo. All rights reserved.
