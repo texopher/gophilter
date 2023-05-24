@@ -1,0 +1,4 @@
+gophilter=yes
+license=© 2023 NGA. All rights reserved.
+cut_line_same_1=© 2023 NGA. All rights reserved.
+cut_line_start_1=Home Governors NGA Leadership Governors
