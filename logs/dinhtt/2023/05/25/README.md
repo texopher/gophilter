@@ -22,7 +22,7 @@ https://www.bbc.com/news/world-latin-america-65699761
 
 https://www.fox5vegas.com/2023/05/24/report-plane-crash-that-killed-two-near-las-vegas-went-down-minutes-after-takeoff/
 
-
+https://en.wikipedia.org/wiki/Aviation_accidents_and_incidents
 
 ```
 
