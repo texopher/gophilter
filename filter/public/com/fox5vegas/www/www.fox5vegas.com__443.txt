@@ -1,0 +1,12 @@
+gophilter=yes
+license=© 2002-2023 Gray Television, Inc.
+cut_line_same_1=Copyright 2023 KVVU. All rights reserved.
+cut_line_same_2=Most Read
+cut_line_same_3=Share on Facebook
+cut_line_same_4=Email This Link
+cut_line_same_5=Share on Twitter
+cut_line_same_6=Share on Pinterest
+cut_line_same_7=Share on LinkedIn
+cut_last_same_1=Most Read
+
+
