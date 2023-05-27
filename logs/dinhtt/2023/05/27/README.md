@@ -30,6 +30,8 @@ https://www.espncricinfo.com/cricketers/shubman-gill-1070173
 
 https://en.wikipedia.org/wiki/Shubman_Gill
 
+https://www.instagram.com/shubmangill/?hl=en
+
 ```
 
 ```
