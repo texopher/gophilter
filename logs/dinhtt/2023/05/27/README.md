@@ -28,6 +28,8 @@ https://twitter.com/ShubmanGill/status/1662171153061019648?ref_src=twsrc%255Egoo
 
 https://www.espncricinfo.com/cricketers/shubman-gill-1070173
 
+https://en.wikipedia.org/wiki/Shubman_Gill
+
 ```
 
 ```
