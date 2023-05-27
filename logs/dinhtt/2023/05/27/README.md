@@ -26,6 +26,7 @@ https://www.espncricinfo.com/story/ipl-2023-qualifier-2-gt-vs-mi-for-shubman-gil
 
 https://twitter.com/ShubmanGill/status/1662171153061019648?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Etweet
 
+https://www.espncricinfo.com/cricketers/shubman-gill-1070173
 
 ```
 
