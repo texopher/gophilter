@@ -32,6 +32,8 @@ https://en.wikipedia.org/wiki/Shubman_Gill
 
 https://www.instagram.com/shubmangill/?hl=en
 
+https://www.cricbuzz.com/profiles/11808/shubman-gill
+
 ```
 
 ```
