@@ -1,2 +1,3 @@
 gophilter=yes
-usediv=yes
+hard_read=yes
+hard_read_all=yes
