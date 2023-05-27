@@ -1,0 +1,10 @@
+gophilter=yes
+license=© 2023 Cricbuzz.com, Times Internet Limited. All rights reserved
+cut_first_same_1=Profile
+cut_line_same_1=Profile
+cut_line_same_2=We use cookies to improve your experience on our site and to show you non-personalized ads. Find out more in our privacy policy and cookie policyOK
+cut_line_same_3=MOBILE SITE & APPS
+cut_line_same_4=FOLLOW US ON
+cut_line_same_5=COMPANY
+cut_line_same_6=© 2023 Cricbuzz.com, Times Internet Limited. All rights reserved | The Times of India | Navbharat Times
+cut_line_same_7=Move to top
