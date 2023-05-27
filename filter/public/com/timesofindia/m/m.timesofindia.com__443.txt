@@ -1,0 +1,8 @@
+gophilter=yes
+license=Copyright © 2023 Bennett, Coleman & Co. Ltd. All rights reserved.
+cut_first_same_1=+Text Size Small Medium Large
+cut_last_same_1=FacebookTwitterInstagramKOO APPYOUTUBE
+cut_line_same_1=FacebookTwitterInstagramKOO APPYOUTUBE
+cut_line_same_2=Start a Conversation
+cut_line_same_3=+Text Size Small Medium Large
+
