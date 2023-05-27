@@ -24,6 +24,8 @@ https://en.wikipedia.org/wiki/Glamorgan_County_Cricket_Club
 
 https://www.espncricinfo.com/story/ipl-2023-qualifier-2-gt-vs-mi-for-shubman-gill-it-s-about-pushing-the-boundaries-1378602
 
+https://twitter.com/ShubmanGill/status/1662171153061019648?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Etweet
+
 
 ```
 
