@@ -34,6 +34,8 @@ https://www.instagram.com/shubmangill/?hl=en
 
 https://www.cricbuzz.com/profiles/11808/shubman-gill
 
+https://www.hindustantimes.com/cricket/virat-kohlis-bombastic-reaction-to-shubman-gills-record-century-in-ipl-2023-qualifier-2-tie-vs-mumbai-indians-101685119271045.html
+
 ```
 
 ```
