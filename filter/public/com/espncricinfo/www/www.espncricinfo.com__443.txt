@@ -1,3 +1,5 @@
 gophilter=yes
 hard_read=yes
 hard_read_all=yes
+cut_first_same_1=null
+cut_line_same_1=null
