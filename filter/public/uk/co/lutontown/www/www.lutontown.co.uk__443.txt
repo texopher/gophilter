@@ -34,4 +34,7 @@ cut_line_same_14=History
 cut_line_same_15=Ticket News
 cut_line_same_16=Browse by Category
 cut_line_same_17=Latest News
+cut_line_same_18=ORDER YOUR 2022-23 REPLICA KIT ONLINE NOW!
+cut_line_same_19=Advertisement
 cut_head_same_1=Browse by Category
+cut_last_same_1=ORDER YOUR 2022-23 REPLICA KIT ONLINE NOW!
