@@ -1,0 +1,10 @@
+gophilter=yes
+US=United States
+CA=Canada
+MX=Mexico
+AR=Argentina
+BR=Brazil
+CL=Chile
+CO=Colombia
+PE=Peru
+RU=Russia
