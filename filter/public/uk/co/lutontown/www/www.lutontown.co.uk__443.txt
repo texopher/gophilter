@@ -33,4 +33,5 @@ cut_line_same_13=Community
 cut_line_same_14=History
 cut_line_same_15=Ticket News
 cut_line_same_16=Browse by Category
+cut_line_same_17=Latest News
 cut_head_same_1=Browse by Category
