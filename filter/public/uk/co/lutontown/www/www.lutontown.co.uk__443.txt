@@ -1,0 +1,13 @@
+gophilter=yes
+have_links=yes
+use_all_links=yes
+link_one_start_1=
+link_one_end_1=
+link_one_same_1=Home
+link_one_include_1=
+link_one_regex_1=
+link_one_start_2=
+link_one_end_2=
+link_one_same_2=Latest News
+link_one_include_2=
+link_one_regex_2=
