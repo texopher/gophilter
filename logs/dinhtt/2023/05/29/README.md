@@ -20,6 +20,7 @@
 
 https://www.nytimes.com/2023/05/29/sports/baseball/tom-bill-wambsganss-succession.html
 
+https://twitter.com/tracey_thorn/status/1663117475439943682?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Etweet
 
 ```
 
