@@ -1,0 +1,9 @@
+gophilter=yes
+license=© 1990-2023 by IMDb.com, Inc.
+cut_first_same_1=New Customer? Create account
+cut_line_same_1=New Customer? Create account
+cut_line_same_2=YOUR RATING
+cut_line_same_3=Rate
+cut_line_same_4=Sign in to rate and Watchlist for personalized recommendations
+cut_line_start_1=Fully supported English (United States)
+cut_last_same_1=Sign in to rate and Watchlist for personalized recommendations
