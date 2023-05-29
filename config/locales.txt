@@ -7,3 +7,17 @@ CL
 CO
 PE
 RU
+IL
+SA
+TR
+HK
+JP
+KR
+TW
+IN
+ID
+MY
+PH
+SG
+TH
+VN
