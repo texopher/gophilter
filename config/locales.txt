@@ -41,3 +41,5 @@ GR
 IT
 PT
 ES
+AU
+NZ
