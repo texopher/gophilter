@@ -73,4 +73,6 @@ hard_read_regex_2=^(\\/chart\\/moviemeter\\/).*$
 hard_read_regex_3=^(\\/feature\\/genre\\/).*$
 hard_read_regex_4=^(\\/showtimes\\/).*$
 hard_read_regex_5=^(\\/news\\/movie\\/).*$
+hard_read_regex_6=^(\\/whats-on-tv\\/).*$
+
 
