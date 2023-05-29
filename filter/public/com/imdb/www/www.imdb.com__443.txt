@@ -70,4 +70,5 @@ link_one_regex_11=
 hard_read=yes
 hard_read_regex_1=^(\\/chart\\/top\\/).*$
 hard_read_regex_2=^(\\/chart\\/moviemeter\\/).*$
+hard_read_regex_3=^(\\/feature\\/genre\\/).*$
 
