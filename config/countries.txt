@@ -42,5 +42,5 @@ GR=Greece
 IT=Italy
 PT=Portugal
 ES=Spain
-
-
+AU=Australia
+NZ=New Zealand
