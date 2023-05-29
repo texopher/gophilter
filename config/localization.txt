@@ -96,7 +96,8 @@ country_11_3=Portugal
 code_11_3=PT
 country_11_4=Spain
 code_11_4=ES
-
-
-
-
+area_12=Australia
+country_12_1=Australia
+code_12_1=Au
+country_12_2=New Zealand
+code_12_2=NZ
