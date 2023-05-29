@@ -22,3 +22,25 @@ PH=Philippines
 SG=Singapore
 TH=Thailand
 VN=Vietnam
+DK=Denmark
+FI=Finland
+IE=Ireland
+SE=Sweden
+GB=United Kingdom
+AT=Austria
+BE=Belgium
+FR=France
+DE=Germany
+NL=Netherlands
+CH=Switzerland
+CZ=Czechia
+HU=Hungary
+PL=Poland
+RO=Romania
+UA=Ukraine
+GR=Greece
+IT=Italy
+PT=Portugal
+ES=Spain
+
+
