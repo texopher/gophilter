@@ -44,3 +44,7 @@ PT=Portugal
 ES=Spain
 AU=Australia
 NZ=New Zealand
+EG=Egypt
+NG=Nigeria
+KE=Kenya
+ZA=South Africa
