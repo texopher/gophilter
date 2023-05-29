@@ -43,3 +43,7 @@ PT
 ES
 AU
 NZ
+EG
+NG
+KE
+ZA
