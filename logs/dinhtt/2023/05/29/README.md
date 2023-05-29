@@ -18,7 +18,7 @@
 1. Search (google) for 'Succession'
   -------------------------------------
 
-
+https://www.nytimes.com/2023/05/29/sports/baseball/tom-bill-wambsganss-succession.html
 
 
 ```
