@@ -20,6 +20,7 @@
 
 https://www.espn.com/nba/story/_/id/37758399/jayson-tatum-hampered-ankle-injury-celtics-fail-make-history-game-7-loss-heat
 
+https://www.espn.com/nba/player/_/id/4065648/jayson-tatum
 
 ```
 
