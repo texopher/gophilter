@@ -1,8 +1,14 @@
 function __exec__(data) {
   data.output(data.input());
   var player_name = get_player_name(data);
-  var text = player_name;
-  var item = new com.github.progrocus.seventy.core.Gopher.Item("i", "  ------------- HARD TO READ: " + text + " ----------------");
+  write_text(data, "=========================================");
+  write_text(data, "PLAYER: " + player_name);
+  write_text(data, "  -------------------------------------");
+
+}
+
+function write_text(data, text) {
+  var item = new com.github.progrocus.seventy.core.Gopher.Item("i", text);
   data.input().get("goDoc").response.add(item);
 }
 
