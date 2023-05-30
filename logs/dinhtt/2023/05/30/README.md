@@ -24,6 +24,8 @@ https://www.espn.com/nba/player/_/id/4065648/jayson-tatum
 
 https://en.wikipedia.org/wiki/Jayson_Tatum
 
+https://www.nba.com/player/1628369/jayson-tatum
+
 ```
 
 ```
