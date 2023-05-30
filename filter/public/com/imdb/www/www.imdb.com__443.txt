@@ -77,5 +77,8 @@ hard_read_regex_6=^(\\/whats-on-tv\\/).*$
 hard_read_regex_7=^(\\/chart\\/toptv\\/).*$
 hard_read_regex_8=^(\\/chart\\/tvmeter\\/).*$
 hard_read_regex_9=^(\\/news\\/tv\\/).*$
-
-
+link_more_start_1=
+link_more_end_1=
+link_more_same_1=
+link_more_include_1=
+link_more_regex_1=^.*$
