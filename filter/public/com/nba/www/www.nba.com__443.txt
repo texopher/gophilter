@@ -2,3 +2,5 @@ gophilter=yes
 license=© 2023 NBA Media Ventures, LLC. All rights reserved.
 cut_line_same_1=If you are having difficulty accessing any content on this website, please visit our Accessibility page.
 cut_line_same_2=NBA.com is part of Warner Media, LLC’s Turner Sports & Entertainment Digital Network
+jsb_regex_1=^(\\/player\\/).*$
+jsb_url_1=https://raw.githubusercontent.com/texopher/gophilter/main/filter/public/com/nba/www/filter-001.js
