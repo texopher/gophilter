@@ -47,7 +47,7 @@ function pad_head_2(text, sample) {
 function pad_head_3(text, sample) {
   var head = lang().newString(sample);
   var target = ' ' + text;
-  for (var i = lang().newString(target).length(); i <= head.length(); i++) {
+  for (var i = lang().newString(target).length(); i < head.length(); i++) {
     target = target + ' ';
   }
   return target;
