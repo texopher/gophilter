@@ -9,11 +9,11 @@ function __exec__(data) {
   write_text(data, "  -------------------------------------");
   write_text(data, "");
   write_text(data, "|------------|---------------------------|");
-  write_text(data, "| Team       |" + pad_head_2(team_name, "---------------------------") + "|");
+  write_text(data, "| Team       |" + pad_head_3(team_name, "---------------------------") + "|");
   write_text(data, "|------------|---------------------------|");
-  write_text(data, "| Number     |" + pad_head_2(number, "---------------------------") + "|");
+  write_text(data, "| Number     |" + pad_head_3(number, "---------------------------") + "|");
   write_text(data, "|------------|---------------------------|");
-  write_text(data, "| Position   |" + pad_head_2(position, "---------------------------") + "|");
+  write_text(data, "| Position   |" + pad_head_3(position, "---------------------------") + "|");
   write_text(data, "|------------|---------------------------|");
 
   write_text(data, "");
@@ -38,6 +38,15 @@ function pad_head_2(text, sample) {
     target = target + ' ';
   }
   target = target + text;
+  for (var i = lang().newString(target).length(); i <= head.length(); i++) {
+    target = target + ' ';
+  }
+  return target;
+}
+
+function pad_head_3(text, sample) {
+  var head = lang().newString(sample);
+  var target = ' ' + text;
   for (var i = lang().newString(target).length(); i <= head.length(); i++) {
     target = target + ' ';
   }
