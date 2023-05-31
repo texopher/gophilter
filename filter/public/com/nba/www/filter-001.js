@@ -1,11 +1,22 @@
 function __exec__(data) {
   data.output(data.input());
   var player_name = get_player_name(data);
+  var team_name = get_team_name(data);
+  var number = get_number(data);
+  var position = get_position(data);
   write_text(data, "=========================================");
   write_text(data, pad_head("PLAYER: " + player_name));
   write_text(data, "  -------------------------------------");
   write_text(data, "");
+  write_text(data, "|------------|---------------------------|");
+  write_text(data, "| Team       |" + pad_head_2(team_name, "---------------------------") + "|");
+  write_text(data, "|------------|---------------------------|");
+  write_text(data, "| Number     |" + pad_head_2(number, "---------------------------") + "|");
+  write_text(data, "|------------|---------------------------|");
+  write_text(data, "| Position   |" + pad_head_2(position, "---------------------------") + "|");
+  write_text(data, "|------------|---------------------------|");
 
+  write_text(data, "");
 }
 
 function intPart(text) {
@@ -14,6 +25,20 @@ function intPart(text) {
     return parseInt(lang().newString(text).substring(0, idx));
   }
   return parseInt(text);
+}
+
+function pad_head_2(text, sample) {
+  var head = lang().newString(sample);
+  var left = intPart('' + ((head.length() - lang().newString(text).length())/2));
+  if (left < 0) {
+    left = 0;
+  }
+  var target = '';
+  for (var i = 0; i < left; i++) {
+    target = target + ' ';
+  }
+  target = target + text;
+  return target;
 }
 
 function pad_head(text) {
@@ -41,6 +66,39 @@ function get_player_name(data) {
   if (nodes.size() > 0) {
     if (nodes.get(0).children().size() >= 3) {
       target = nodes.get(0).children().get(1).text() + ' ' + nodes.get(0).children().get(2).text();
+    }
+  }
+  return target;
+}
+
+function get_team_name(data) {
+  var target = '';
+  var nodes = get_tags_class_start(data, 'div', 'PlayerSummary_mainInnerBio__');
+  if (nodes.size() > 0) {
+    if (nodes.get(0).children().size() >= 3) {
+      target = nodes.get(0).children().get(0).text().split('|')[0].trim();
+    }
+  }
+  return target;
+}
+
+function get_number(data) {
+  var target = '';
+  var nodes = get_tags_class_start(data, 'div', 'PlayerSummary_mainInnerBio__');
+  if (nodes.size() > 0) {
+    if (nodes.get(0).children().size() >= 3) {
+      target = nodes.get(0).children().get(0).text().split('|')[1].trim();
+    }
+  }
+  return target;
+}
+
+function get_position(data) {
+  var target = '';
+  var nodes = get_tags_class_start(data, 'div', 'PlayerSummary_mainInnerBio__');
+  if (nodes.size() > 0) {
+    if (nodes.get(0).children().size() >= 3) {
+      target = nodes.get(0).children().get(0).text().split('|')[2].trim();
     }
   }
   return target;
