@@ -4,6 +4,10 @@ function __exec__(data) {
   var team_name = get_team_name(data);
   var number = get_number(data);
   var position = get_position(data);
+  var stat_PPG = get_player_stat(data, 'PPG');
+  var stat_RPG = get_player_stat(data, 'RPG');
+  var stat_APG = get_player_stat(data, 'APG');
+  var stat_PIE = get_player_stat(data, 'PIE');
   write_text(data, "=========================================");
   write_text(data, pad_head("PLAYER: " + player_name));
   write_text(data, "  -------------------------------------");
@@ -14,6 +18,14 @@ function __exec__(data) {
   write_text(data, "| Number     |" + pad_head_3(number, "---------------------------") + "|");
   write_text(data, "|------------|---------------------------|");
   write_text(data, "| Position   |" + pad_head_3(position, "---------------------------") + "|");
+  write_text(data, "|------------|---------------------------|");
+  write_text(data, "| PPG        |" + pad_head_3(stat_PPG, "---------------------------") + "|");
+  write_text(data, "|------------|---------------------------|");
+  write_text(data, "| RPG        |" + pad_head_3(stat_RPG, "---------------------------") + "|");
+  write_text(data, "|------------|---------------------------|");
+  write_text(data, "| APG        |" + pad_head_3(stat_APG, "---------------------------") + "|");
+  write_text(data, "|------------|---------------------------|");
+  write_text(data, "| PIE        |" + pad_head_3(stat_PIE, "---------------------------") + "|");
   write_text(data, "|------------|---------------------------|");
 
   write_text(data, "");
@@ -70,6 +82,22 @@ function pad_head(text) {
 function write_text(data, text) {
   var item = new com.github.progrocus.seventy.core.Gopher.Item("i", text);
   data.input().get("goDoc").response.add(item);
+}
+
+function get_player_stat(data, label) {
+  var target = '';
+  var nodes = get_tags_class_start(data, 'div', 'PlayerSummary_playerStat__');
+  if (nodes.size() > 0) {
+    for (var i = 0; i < nodes.size(); i++) {
+      if (nodes.get(i).children().size() == 2) {
+        if (lang().newString(label).equals(nodes.get(i).children().get(0).text().trim()) {
+          target = nodes.get(i).children().get(1).text().trim();
+          return target;
+        }
+      }
+    }
+  }
+  return target;
 }
 
 function get_player_name(data) {
