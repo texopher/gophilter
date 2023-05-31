@@ -8,14 +8,14 @@ function __exec__(data) {
   var stat_RPG = get_player_stat(data, 'RPG');
   var stat_APG = get_player_stat(data, 'APG');
   var stat_PIE = get_player_stat(data, 'PIE');
-  var stat_HEIGHT = get_player_stat(data, 'HEIGHT');
-  var stat_WEIGHT = get_player_stat(data, 'WEIGHT');
-  var stat_AGE = get_player_stat(data, 'AGE');
-  var stat_BIRTHDATE = get_player_stat(data, 'BIRTHDATE');
-  var stat_DRAFT = get_player_stat(data, 'DRAFT');
-  var stat_COUNTRY = get_player_stat(data, 'COUNTRY');
-  var stat_EXPERIENCE = get_player_stat(data, 'EXPERIENCE');
-  var stat_LAST_ATTENDED = get_player_stat(data, 'LAST ATTENDED');
+  var stat_HEIGHT = get_player_stat_2(data, 'HEIGHT');
+  var stat_WEIGHT = get_player_stat_2(data, 'WEIGHT');
+  var stat_AGE = get_player_stat_2(data, 'AGE');
+  var stat_BIRTHDATE = get_player_stat_2(data, 'BIRTHDATE');
+  var stat_DRAFT = get_player_stat_2(data, 'DRAFT');
+  var stat_COUNTRY = get_player_stat_2(data, 'COUNTRY');
+  var stat_EXPERIENCE = get_player_stat_2(data, 'EXPERIENCE');
+  var stat_LAST_ATTENDED = get_player_stat_2(data, 'LAST ATTENDED');
   
   write_text(data, "=========================================");
   write_text(data, pad_head("PLAYER: " + player_name));
@@ -113,6 +113,22 @@ function write_text(data, text) {
 function get_player_stat(data, label) {
   var target = '';
   var nodes = get_tags_class_start(data, 'div', 'PlayerSummary_playerStat__');
+  if (nodes.size() > 0) {
+    for (var i = 0; i < nodes.size(); i++) {
+      if (nodes.get(i).children().size() == 2) {
+        if (lang().newString(label).equals(nodes.get(i).children().get(0).text().trim())) {
+          target = nodes.get(i).children().get(1).text().trim();
+          return target;
+        }
+      }
+    }
+  }
+  return target;
+}
+
+function get_player_stat_2(data, label) {
+  var target = '';
+  var nodes = get_tags_class_start(data, 'div', 'PlayerSummary_playerInfo__');
   if (nodes.size() > 0) {
     for (var i = 0; i < nodes.size(); i++) {
       if (nodes.get(i).children().size() == 2) {
