@@ -1,3 +1,3 @@
 gophilter=yes
-url.trends2023=https://raw.githubusercontent.com/texopher/tg-trends-2023/main
-jsb.trends2023=yes
+url.trends-2023=https://raw.githubusercontent.com/texopher/tg-trends-2023/main
+jsb.trends-2023=yes
