@@ -1,5 +1,5 @@
 gophilter=yes
-US=gopher://texopher.com/trends-2023
+US=gopher://texopher.com/trends2023
 CA=
 MX=
 AR=
