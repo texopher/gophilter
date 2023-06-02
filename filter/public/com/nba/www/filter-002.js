@@ -8,7 +8,7 @@ function __exec__(data) {
     var text = rootL.get(0).text();
     write_text(data, text);
   } else {
-    write_text(data, 'Not found!');
+    write_text(data, 'Not found: GameHeroBackground_content__ !');
   }
 
   write_text(data, "");
