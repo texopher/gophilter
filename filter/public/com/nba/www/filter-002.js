@@ -6,7 +6,7 @@ function __exec__(data) {
   var rootL = get_tags_class_start(data, 'div', 'GameHeroBackground_content__');
   if (rootL.size() > 0) {
     var text = rootL.get(0).text();
-    write_text(data, text);
+    write_text(data, '|' + text);
   } else {
     write_text(data, 'Not found: GameHeroBackground_content__ !');
   }
