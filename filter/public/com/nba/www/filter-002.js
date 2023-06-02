@@ -1,7 +1,7 @@
 function __exec__(data) {
   data.output(data.input());
   
-  var root = data.input().get('doc').select('#story');
+  var root = data.input().get('doc').selectFirst('#story');
   var text = root.text();
 
   write_text(data, "");
