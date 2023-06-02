@@ -7,3 +7,4 @@ cut_line_same_2=BREAKING NEWS
 cut_line_same_3=Article continues below advertisement
 cut_line_same_4=Never miss a story — sign up for the OK! newsletter to stay up-to-date on the best of what OK! has to offer. It’s gossip too good to wait for!
 cut_line_start_1=Powered by
+cut_line_start_2=Home > Breaking News >
