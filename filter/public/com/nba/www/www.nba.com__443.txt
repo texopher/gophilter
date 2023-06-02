@@ -5,4 +5,4 @@ cut_line_same_2=NBA.com is part of Warner Media, LLC’s Turner Sports & Enterta
 jsb_regex_1=^(\\/player\\/).*$
 jsb_url_1=https://raw.githubusercontent.com/texopher/gophilter/main/filter/public/com/nba/www/filter-001.js
 hard_read=yes
-hard_reead_regex_1=^(\\/game\\/).*$
+hard_read_regex_1=^(\\/game\\/).*$
