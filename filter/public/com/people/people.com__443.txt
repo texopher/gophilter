@@ -18,3 +18,4 @@ cut_line_same_12=Shopping
 cut_line_same_13=Magazine
 cut_line_same_14=News Crime Human Interest Politics Entertainment Celebrity TV Movies Music Country Awards Sports Theater Books Royals Lifestyle Style Beauty Fashion Parents Home Health Travel Pets Food Tech StyleWatch Shopping People Tested
 cut_line_same_15=Please review our updated Terms of Service.
+cut_line_same_16=PEOPLE is part of the Dotdash Meredith publishing family.
