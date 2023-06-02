@@ -3,7 +3,7 @@ function __exec__(data) {
 
   write_text(data, "");
   
-  var rootL = get_tags_class_start(data, 'p', 'GameHero_gameSeriesInfoText__');
+  var rootL = get_tags_class_start(data, 'div', 'GameHeroBackground_content__');
   if (rootL.size() > 0) {
     var text = rootL.get(0).text();
     write_text(data, text);
