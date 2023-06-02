@@ -1,5 +1,7 @@
 function __exec__(data) {
   data.output(data.input());
+
+  var url = 'https://txtify.it/' + data.input().get('url');
   
   write_text(data, "");
   write_text(data, "=========================================");
@@ -7,7 +9,6 @@ function __exec__(data) {
   write_text(data, "  -------------------------------------");
   write_text(data, "");
   
-  var url = 'https://txtify.it/' + data.input().get('url');
   var text = scrape_page(url);
   var lines = text.split("\n");
   for (var i = 0; i < lines.length; i++) {
