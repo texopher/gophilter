@@ -1,0 +1,6 @@
+gophilter=yes
+license=Copyright © Fandango. All rights reserved.
+cut_last_same_1=Highest rated movies
+cut_line_same_1=Highest rated movies
+cut_first_start_1=Lowest Rated:
+cut_line_start_1=Lowest Rated:
