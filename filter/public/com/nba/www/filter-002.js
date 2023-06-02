@@ -1,12 +1,13 @@
 function __exec__(data) {
   data.output(data.input());
   
-  write_text(data, "=========================================");
-  //write_text(data, pad_head("PLAYER: " + player_name));
-  write_text(data, "  -------------------------------------");
+  var root = data.input().get('doc').select('#story');
+  var text = root.text();
+
+  write_text(data, "");
+  write_text(data, text);
   write_text(data, "");
   
-  write_text(data, "");
 }
 
 function intPart(text) {
