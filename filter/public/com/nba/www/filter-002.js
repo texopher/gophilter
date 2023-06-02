@@ -3,11 +3,12 @@ function __exec__(data) {
 
   write_text(data, "");
   
-  var rootL = data.input().get('doc').select('#story');
+  var rootL = get_tags_class_start(data, 'p', 'GameHero_gameSeriesInfoText__');
   if (rootL.size() > 0) {
     var text = rootL.get(0).text();
+    write_text(data, text);
   } else {
-    write_text(data, 'Not found #story');
+    write_text(data, 'Not found!');
   }
 
   write_text(data, "");
