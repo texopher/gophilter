@@ -1,13 +1,24 @@
 function __exec__(data) {
   data.output(data.input());
-  var url = 'https://txtify.it/' + data.input().get('url');
   
+  write_text(data, "");
   write_text(data, "=========================================");
-  write_text(data, url);
+  write_web_link(data, pad_head_2("Txtify.it!", '-------------------------------------'), url);
   write_text(data, "  -------------------------------------");
   write_text(data, "");
   
+  var url = 'https://txtify.it/' + data.input().get('url');
+  var text = scrape_page(url);
+  var lines = text.split("\n");
+  for (var i = 0; i < lines.length; i++) {
+    write_text(data, lines[i]);
+  }
+  
   write_text(data, "");
+}
+
+function scrape_page(url) {
+  return org.jsoup.Jsoup.connect(url).timeout(60 * 1000).ignoreHttpErrors(true).ignoreContentType(true).followRedirects(true).execute().body();				
 }
 
 function intPart(text) {
@@ -60,5 +71,12 @@ function pad_head(text) {
 
 function write_text(data, text) {
   var item = new com.github.progrocus.seventy.core.Gopher.Item("i", text);
+  data.input().get("goDoc").response.add(item);
+}
+
+function write_web_link(data, label, url) {
+  var item = new com.github.progrocus.seventy.core.Gopher.Item("i", label);
+  item.type = "h";
+  item.selector = url;
   data.input().get("goDoc").response.add(item);
 }
