@@ -1,5 +1,5 @@
 gophilter=yes
 hard_read=yes
 hard_read_all=yes
-jsb_regex_1=^.*$
-jsb_url_1=https://raw.githubusercontent.com/texopher/gophilter/main/filter/public/com/instagram/www/filter-1.js
+_jsb_regex_1=^.*$
+_jsb_url_1=https://raw.githubusercontent.com/texopher/gophilter/main/filter/public/com/instagram/www/filter-1.js
