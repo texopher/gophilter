@@ -1,11 +1,15 @@
 function __exec__(data) {
   data.output(data.input());
-  
-  var root = data.input().get('doc').selectFirst('#story');
-  var text = root.text();
 
   write_text(data, "");
-  write_text(data, text);
+  
+  var rootL = data.input().get('doc').select('#story');
+  if (rootL.size() > 0) {
+    var text = rootL.get(0).text();
+  } else {
+    write_text(data, 'Not found #story');
+  }
+
   write_text(data, "");
   
 }
