@@ -1,0 +1,300 @@
+i
+i=========================================
+i              LOCALIZATION
+i  -------------------------------------
+i
+i
+i             Northern America
+i        -------------------------
+i
+i              United States
+i              -------------
+i
+iUS
+i
+i                  Canada
+i              -------------
+i
+iCA
+i
+i                  Mexico
+i              -------------
+i
+iMX
+i
+i              South America
+i        -------------------------
+i
+i                Argentina
+i              -------------
+i
+iAR
+i
+1                  Brazil
+i              -------------
+i
+iBR
+i
+1                  Chile
+i              -------------
+i
+iCL
+i
+i                 Colombia
+i              -------------
+i
+iCO
+i
+i                   Peru
+i              -------------
+i
+iPE
+i
+i                North Asia
+i        -------------------------
+i
+i                  Russia
+i              -------------
+i
+iRU
+i
+i               Western Asia
+i        -------------------------
+i
+i                  Israel
+i              -------------
+i
+iIL
+i
+i               Saudi Arabia
+i              -------------
+i
+iSA
+i
+i                  Turkey
+i              -------------
+i
+iTR
+i
+i               Eastern Asia
+i        -------------------------
+i
+i                Hong Kong
+i              -------------
+i
+iHK
+i
+i                  Japan
+i              -------------
+i
+iJP
+i
+i               South Korea
+i              -------------
+i
+iKR
+i
+i                 Taiwan
+i              -------------
+i
+iTW
+i
+i                South Asia
+i        -------------------------
+i
+i                  India
+i              -------------
+i
+iIN
+i
+i              Southeast Asia
+i        -------------------------
+i
+i                Indonesia
+i              -------------
+i
+iID
+i
+i                 Malaysia
+i              -------------
+i
+iMY
+i
+i               Philippines
+i              -------------
+i
+iPH
+i
+i                Singapore
+i              -------------
+i
+iSG
+i
+i                Thailand
+i              -------------
+i
+iTH
+i
+i                 Vietnam
+i              -------------
+i
+iVN
+i
+i             Northern Europe
+i        -------------------------
+i
+i                 Denmark
+i              -------------
+i
+iDK
+i
+i                 Finland
+i              -------------
+i
+iFI
+i
+i                 Ireland
+i              -------------
+i
+iIE
+i
+i                  Sweden
+i              -------------
+i
+iSE
+i
+i              United Kingdom
+i              -------------
+i
+iGB
+i
+i              Western Europe
+i        -------------------------
+i
+i                 Austria
+i              -------------
+i
+iAT
+i
+i                 Belgium
+i              -------------
+i
+iBE
+i
+i                  France
+i              -------------
+i
+iFR
+i
+i                 Germany
+i              -------------
+i
+iDE
+i
+i               Netherlands
+i              -------------
+i
+iNL
+i
+i               Switzerland
+i              -------------
+i
+iCH
+i
+i              Eastern Europe
+i        -------------------------
+i
+i                 Czechia
+i              -------------
+i
+iCZ
+i
+i                 Hungary
+i              -------------
+i
+iHU
+i
+i                  Poland
+i              -------------
+i
+iPL
+i
+i                 Romania
+i              -------------
+i
+iRO
+i
+i                 Ukraine
+i              -------------
+i
+iUA
+i
+i             Southern Europe
+i        -------------------------
+i
+i                  Greece
+i              -------------
+i
+iGR
+i
+i                  Italy
+i              -------------
+i
+iIT
+i
+i                 Portugal
+i              -------------
+i
+iPT
+i
+i                  Spain
+i              -------------
+i
+iES
+i
+i                Australia
+i        -------------------------
+i
+i                Australia
+i            -----------------
+i
+iAU
+i
+i               New Zealand
+i            -----------------
+i
+iNZ
+i
+i             Northern Africa
+i        -------------------------
+i
+i                   Egypt
+i            -----------------
+i
+iEG
+i
+i              Western Africa
+i        -------------------------
+i
+i                 Nigeria
+i            -----------------
+i
+iNG
+i
+i              Eastern Africa
+i        -------------------------
+i
+i                   Kenya
+i            -----------------
+i
+iKE
+i
+i             Southern Africa
+i        -------------------------
+i
+i               South Africa
+i            -----------------
+i
+iZA
+i
+i
