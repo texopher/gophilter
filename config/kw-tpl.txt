@@ -30,12 +30,12 @@ i              -------------
 i
 iAR
 i
-1                  Brazil
+i                  Brazil
 i              -------------
 i
 iBR
 i
-1                  Chile
+i                  Chile
 i              -------------
 i
 iCL
