@@ -1,0 +1,7 @@
+gophilter=yes
+cut_first_end_1= PDT
+cut_line_start_1=Share All sharing options for:
+cut_line_same_1=Reddit Pocket Flipboard Email
+cut_head_start_1=More From 
+cut_line_start_2=~~~~~ More From 
+cut_last_start_1=~~~~~ More From 
