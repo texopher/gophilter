@@ -1,6 +1,6 @@
 gophilter=yes
 cut_first_same_1=×
-cut_last_same_2=--Field Level Media
+cut_last_same_1=--Field Level Media
 cut_line_same_1=×
 cut_line_same_2=Miami 93 Denver 104
 cut_line_same_3=--Field Level Media
