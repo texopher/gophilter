@@ -1,0 +1,3 @@
+gophilter=yes
+cut_last_same_1=Share what you think
+cut_line_same_1=Share what you think
