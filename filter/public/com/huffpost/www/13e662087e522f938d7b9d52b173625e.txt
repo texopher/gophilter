@@ -1,0 +1,470 @@
+
+[1] Read Details
+
+As COVID-19 ripped through the global economy in 2020, Ford stopped assembly
+lines at automotive factories from Michigan to Mexico. The old textile mill
+in
+the central Pennsylvania town of Sunbury that had survived the country’s last
+big wave of fabric plant closures shut down for good. The Texas oil fields
+that had made the United States a rival to Saudi Arabia in crude exports
+halted production.
+
+At ERMCO Inc., a Tennessee-based manufacturer of electrical transformers, the
+factory floors were humming. Orders were coming in faster than ever before
+from the rural electric cooperatives ERMCO serves. The pandemic may have
+mangled many manufacturers’ supply chains, but ERMCO’s 10 facilities in
+states
+like Illinois, Indiana and Georgia kept pace with the record sales.
+
+“In 2020, we produced more transformers than in the history of our company,”
+said ERMCO chief executive Tim Mills. “2021 topped that record year.”
+
+This may only be the start of the boom, and demand may soon pick up as
+federal dollars from President Joe Biden’s landmark climate-spending laws
+begin to flow. But Mills said a new regulation meant to make transformers
+more
+energy-efficient is making it impossible to go all-in on clearing an
+ever-growing backlog of orders.
+
+The resulting shortage has kept builders from completing new homes and hiked
+the cost of replacing power lines destroyed in storms by double or more.
+Transformers that once took weeks to obtain now require up to a year or more
+of waiting. Utilities say the crisis may be getting worse, threatening to
+slow
+the shift away from fossil fuels and increase blackouts in a country where
+the
+average household is already losing power for twice as long compared to 10
+years ago.
+
+Transformers come in hundreds of shapes and sizes, the most visible of which
+tend to be those housed in the metal cylinders mounted atop electrical poles.
+The job of large transformers in particular is to convert rivers of up to
+750,000 volts into the 240-volt trickle most homes are designed to safely
+receive. Smaller transformers serve similar functions as electricity flows
+along transmission lines from power stations to substations and into homes
+and
+businesses.
+
+Virtually every home is connected to a transformer, meaning demand for
+transformers historically kept pace with new housing construction.
+
+Not anymore. Extreme storms and wildfires are destroying hundreds of
+transformers at a time, steadily eating into utilities’ stockpiles of the
+machines. That leaves even fewer to go around now that the U.S. is finally
+gearing up to upgrade its power grid, more than one-quarter of which was
+built
+at least half a century ago.
+
+But it’s not just about replacing the existing grid. The U.S. needs to expand
+its power system to handle its two fastest-growing sources of electricity,
+solar and wind, which require bigger distribution networks to balance the
+power load when the output from panels and turbines fluctuates with the
+weather. If that weren’t enough, federal researchers estimate that charging
+cars and powering heating and cooking appliances with electricity could
+increase overall demand on the grid by nearly 40% over the next 27 years. All
+that requires more transformers.
+
+The problem has been growing for years, and drew attention from both the
+Trump and Biden administrations.
+
+“We are certainly concerned about the supply of transformers all the way
+across,” Energy Secretary Jennifer Granholm said at a Senate hearing last
+month.
+
+Mills would like to ramp up production. But it takes years to get new
+assembly lines running at peak capacity, and it’s hard to bank on if the same
+machines he can’t produce quickly enough today might be illegal to sell in
+just four years.
+
+In December, the Biden administration proposed new standards mandating that
+all transformers sold starting in 2027 be made with a completely different
+kind of steel. Environmentalists say the new rule would slash the amount of
+energy wasted in a transformer’s core in half compared to the current models.
+But manufacturers say the overall energy savings on the grid would be
+minimal,
+and warned that forcing factories to overhaul production lines may worsen the
+current transformer shortage and delay the shift away from fossil fuels.
+
+The Department of Energy has yet to unveil the final version of the
+regulation, which just completed a public comment period where opponents
+appeared to far outnumber supporters.
+
+“If I knew definitively what direction this was going to go, I could put more
+chips in one basket or the other,” Mills said. “All the equipment I’m
+purchasing to ramp up production would go one way or the other.”
+
+But policy experts say abandoning the regulation won’t necessarily fix a
+problem that could be aided through federal help hiring and training more
+workers and establishing a government-controlled stockpile of transformers.
+
+===== ‘Into 2024 And Beyond’ =====
+
+The United States’ patchwork of electrical grids, regulators and market
+designs mean trends tend to play out differently across this continent-sized
+country. HuffPost contacted the 10 largest electrical utilities in the U.S.
+and several transformer manufacturers across different sectors, reviewed
+public filings or interviewed officials from trade associations representing
+rural electric cooperatives, utilities and home builders.
+
+Transformer orders that once took weeks can now take a year or more. Large
+power transformers can take more than two years. Projects are getting
+delayed.
+Prices are going up. Stockpiles needed for quickly rebuilding after natural
+disasters are running low.
+
+The Tennessee Valley Authority, the only federally owned utility in the
+country, said the push for renewables had driven up demand for transformers,
+causing it to experience “longer lead times and price pressures due to the
+transformer supply chain challenges.”
+
+Over the past two years, North Carolina-based Duke Energy said it and other
+utilities had turned down new projects, “hoping to procure enough
+transformers
+to tackle their backlog, keep current projects on track, and replenish
+depleted stockpiles.”
+
+“If needs aren’t met in 2023, the current spike in demand will likely grow
+and move into 2024 and beyond,” Madison McDonald, a Duke Energy spokesperson,
+wrote in a lengthy emailed response to HuffPost’s questions.
+
+California’s largest utility, Pacific Gas & Electric, faced a particular
+challenge because each of the microclimates in the company’s vast West Coast
+territory have different transformer needs, according to a source with
+knowledge of the firm’s operations who was not authorized to speak publicly.
+
+In a statement sent after this story was published, a Pacific Gas & Electric
+spokesperson said the company is working with trade associations and
+suppliers
+and conducting regular reviews to determine where scarce resources should be
+used.
+
+“We are seeing impacts to material availability,” the company said in a
+statement. “PG&E mitigates supply shortages by having multiple suppliers, and
+also standardizes the designs we use for our transformers—which has been in
+alignment with national standards for more than 20 years.”
+
+The average price of distribution transformers may have doubled or tripled,
+Joy Ditto, the chief executive of the American Public Power Association, told
+the trade publication Utility Dive in December. But she said a small utility
+in Tennessee that once paid $2,400 per transformer now faces bills as high as
+$24,000.
+
+Blackouts are not a theoretical risk. Americans have experienced longer
+blackouts over the past few years. In 2021, the average American household
+lost power for a combined eight hours, up from less than four hours in 2013.
+Excluding extreme weather events from the most recently available federal
+statistics, the country still spent more than two hours on average in the
+dark, a 12% increase from 2013 and more than double what Europeans and East
+Asians typically experience.
+
+===== Skyrocketing Demand, But Ramping Up Production Is A Risky Bet =====
+
+In 2021, ERMCO announced plans to take over a defunct Caterpillar factory
+near its headquarters in Dyersburg, Tennessee, and build a new
+200,000-square-foot production facility to help meet growing demand.
+
+But it’s not yet clear how much of that space Mills should devote to
+transformers made the current way, with what’s called “grain-oriented
+electrical steel.” Under the Energy Department’s new rule, transformers
+produced four years from now would need cores made from amorphous electrical
+steel, which is commonly used in electric vehicles and motors.
+
+Utilities discovered in the 1980s that the magnetic properties of amorphous
+steel reduced how much energy is wasted as it travels through the transformer
+core by as much as a third. But transformers made with that grade of steel
+proved more expensive because the brittler metal made manufacturing more
+difficult.
+
+Amorphous steel cost more on a per-kilogram basis, and forming cores of the
+metal required far more labor, sending the price up further. But the Trump
+administration concluded in a 2020 Commerce Department report that “the
+material has the potential to reduce costs in the long run for utilities over
+the life of the transformer due to lower core losses.” The U.S. had about
+600,000 amorphous metal transformers, compared with over 1 million in China
+and 1.3 million in India.
+
+“It is more economical in countries with low labor costs,” the report stated.
+
+For years, the markets for each kind of electrical steel have looked more or
+less identical, each with a single domestic producer in the U.S. and a
+handful
+of overseas exporters.
+
+But U.S. energy regulators believe demand for amorphous steel for electric
+vehicles is going to push steelmakers to shift production away from the
+grain-oriented electrical steel transformers used today. Agency officials
+cited discussions with steelmakers in the U.S., South Korea and Germany,
+which
+all agreed to increase production. With environmentalists now claiming that
+amorphous steel can cut the energy wasted in transformers’ cores in half, the
+Biden administration saw this as the right time to mandate a change.
+
+“I think it’s important to continue to move toward efficiency,” Granholm said
+at last month’s Senate Committee on Energy and Natural Resources hearing.
+“But
+we are having conversations with industry.”
+
+Mills took part in some of those conversations. At public comment sessions
+for the new federal rule over the past few months, he said he encountered few
+if any supporters of the regulation within the industry.
+
+“Is this the right time to throw another disruption into what’s already a
+very strained supply situation for increased demand for transformers for what
+you’re gaining in efficiency? I’d say it’s pretty clearly no.”
+
+Jim Matheson, chief executive of the National Rural Electric Cooperative
+Association, said it’s an issue of timing.
+
+“Is this the right time to throw another disruption into what’s already a
+very strained supply situation for increased demand for transformers for what
+you’re gaining in efficiency? I’d say it’s pretty clearly no,” he said in an
+interview over Zoom. “If there’s a long-term value in increasing efficiency,
+there’s a time to talk about the right timing to do that. This is not the
+right time.”
+
+Maximal efficiency gains from the amorphous steel cores depend on having
+steady electricity — with fluctuating loads like those from renewables, the
+cores are less efficient, according to the National Electrical Manufacturers
+Association. Industry officials have repeatedly claimed that overall
+efficiency would improve by a paltry 0.2% as a result of the regulation.
+
+“There’s a disagreement about how much more efficient they are,” Granholm
+said when Sen. Cindy Hyde-Smith (R-Miss.) cited the figure at the April 20
+hearing. “We would like to see both types of steel available.”
+
+She stressed at least twice that the rule was only a proposal, and that the
+Energy Department was having ongoing discussions with industry.
+
+In the meantime, Mills said, “The No. 1 thing I’m doing is hedging.”
+
+===== Other Priorities For Defense Production Act Money =====
+
+Industry associations representing utilities, manufacturers and home builders
+are lobbying.
+
+In October, the National Association of Home Builders sent a letter to three
+top Biden administration officials warning of “grave concerns” over what the
+construction trade group twice referred to as “severe shortages.” In
+particular, they pointed to places like Duval County, Florida, where a major
+hurricane last year gobbled up the already limited supply of transformers for
+contractors trying to keep up with Jacksonville’s housing boom.
+
+“The severe shortage of transformers and other electrical components is
+spreading across the country and is having a deleterious effect on efforts to
+implement your administration’s infrastructure plan, finish construction
+projects, provide affordable housing, and ultimately, will imperil the
+national and economic security of the United States,” read the Oct. 17 letter
+addressed to Granholm, Commerce Secretary Gina Raimondo and U.S. Trade
+Representative Katherine Tai.
+
+Last year, Democrats in Congress earmarked $250 million in President Joe
+Biden’s landmark Inflation Reduction Act for direct federal purchases of
+strategically important appliances. Authorized under an obscure Korean
+War-era
+law known as the Defense Production Act, the administration vowed last June
+to
+use the money to “accelerate domestic manufacturing” of five key
+technologies:
+solar panels, transformers and grid equipment, heat pumps, insulation, and
+hardware to make and use carbon-free hydrogen fuel.
+
+As Russia’s invasion of Ukraine sent prices of heating fuel soaring and
+Europeans in rich countries turned to burning wood and garbage to survive the
+winter, the Biden administration signaled its intention to spend the entire
+budget on manufacturing heat pumps, which effectively replace gas- or
+oil-burning furnaces with what are effectively two-way air conditioners.
+
+In a letter dated Oct. 19, two trade groups representing municipally owned
+and cooperative electrical utilities pleaded with Granholm to save at least
+some of the Defense Production Act funding for transformers, warning of an
+“unacceptable risk” of blackouts from “this unprecedented situation.”
+
+“While we support long-term investment in domestic manufacturing capacity for
+heat pumps ... if we don’t act today, we risk being unable to recover from a
+storm tomorrow,” read the letter from the American Public Power Association
+and National Rural Electric Cooperative Association.
+
+Exactly two weeks later, the Energy Department formally announced plans to
+spend the full quarter-billion-dollars on heat pumps. Nearly two months after
+that, the agency proposed its new efficiency standards for transformers.
+
+In March, the Biden administration asked Congress for another $75 million to
+spend on Defense Production Act priorities.
+
+When Granholm came before the Senate energy committee to make the case for
+the latest White House budget request, she encouraged the lawmakers “to
+supply
+more funding” to “open more manufacturing projects.”
+
+“We have $75 million under the DPA for that,” Granholm said. “It’s not enough
+to get new factories up.”
+
+Three other senators — Republican Steve Daines of Montana and Democrats
+Martin Heinrich of New Mexico and John Hickenlooper of Colorado — joined
+Hyde-Smith in pressing Granholm about the transformer shortage. But the
+Mississippi Republican spent her full time on the issue, and if the energy
+secretary would consider postponing the rule for up to two years to help ease
+the current crunch.
+
+“It seems to me the White House and your department have put the cart before
+the horse with these new efficiency standards versus meeting current demand,”
+Hyde-Smith said.
+
+“We’re in discussions,” Granholm said.
+
+“There’s a possibility you could delay this?” Hyde-Smith asked.
+
+“Lots of things are possible,” Granholm replied.
+
+“Thanks for not answering me,” the senator snapped back.
+
+===== Bad Trades? =====
+
+A lack of federal funding is hardly the only policy frustrating transformer
+manufacturers.
+
+In 2018, President Donald Trump slapped tariffs on imports of electrical
+steel, a move his own Commerce Department concluded in a report two years
+later that had “raised material costs for lamination and core manufacturers,
+affecting their ability to compete, because electrical steel accounts for a
+large percentage of the cost of these items.”
+
+Still, the report found that the U.S. depended on imports for 35% of
+electrical transformers — and a whopping 80% of the large power transformers
+that form the grid’s backbone.
+
+Tariffs might help manufacturers of certain kinds of electrical transformers
+that “may not need to be as competitive in the global market,” said William
+Dull, the president of Triad Magnetics, a Perris, California-based
+manufacturer of transformer components for electronics. But, he said, the
+U.S.
+trade representative ultimately expanded the levies to include “all the
+remaining types of transformers which are primarily the ‘component’ types of
+transformers that are installed inside an electrical or electronic device.”
+
+Putting tariffs on components made Dull question whether the U.S. trade
+representative understood the market at all.
+
+“Long story short, I don’t think tariffs on raw materials/component parts is
+a good idea if we want to help USA manufacturing,” he wrote in an email.
+“Unfortunately, I don’t think the USTR can tell the difference between a
+component part and an end-product.”
+
+He said several companies had moved their manufacturing to Mexico and South
+America so they could avoid the trade restrictions.
+
+A spokesperson for Tai, the current U.S. trade representative, did not
+respond to emails requesting comment.
+
+It wouldn’t be the first time U.S. trade policy threatened the American
+manufacturing revival on which Biden hopes to campaign for a second term.
+
+Just weeks into his presidency, the U.S. International Trade Commission
+banned one of the world’s biggest electric vehicle battery manufacturers from
+selling its cells in the U.S. for 10 years as punishment for stealing trade
+secrets from its fellow South Korean rival, LG Energy Solution. The decision
+made it impossible for Seoul-based SK Innovation to build a $2.6 billion
+factory in rural Georgia.
+
+In a reversal of usual partisan battle lines on green industrial projects,
+the Georgia GOP begged Biden to use a rare presidential veto to cancel the
+trade court ruling. The White House ultimately avoided a test of whether
+climate goals should trump intellectual property disputes, a question that
+continues to loom over U.S. efforts to persuade developing countries that
+avoiding mass death in a hotter, disease-ridden world will be easier without
+coal plants. Hours before the legal window to do so expired, the two
+companies
+reached a settlement that saved the Georgia factory.
+
+Had SK Innovation abandoned its U.S. expansion, the historic government
+spending the Biden administration won in the Inflation Reduction Act the
+following year might have given enough incentive for companies to open
+additional battery factories anyway. Perhaps counterintuitively, keeping the
+lights on across the U.S. could prove trickier.
+
+The Federal Energy Regulatory Commission proposed a new rule in January that
+would make it easier for the federal government to site new transmission
+lines, cutting past the state and local permitting processes that have so
+often given not-in-my-backyard types control over infrastructure officials
+say
+the nation needs. But the regulation is not yet in effect.
+
+Meanwhile, utilities are shutting down the coal and nuclear power plants
+around which the grid was built and replacing the generation with natural gas
+and renewables, which produce more erratic electricity that requires more
+transmission capacity to balance out. The failure to build new power lines
+put
+the American heartland at risk of rolling blackouts last summer.
+
+The tools to ease the problems all come with tradeoffs. Technology to
+automatically siphon energy from parked electric vehicles or reduce power
+consumption when demand surges can help manage the grid has stoked concerns
+over privacy and cyberattacks due to the near-constant need for real-time
+monitoring of individual households’ electricity use.
+
+Zero-carbon sources of steady, 24/7 generation, meanwhile, are controversial
+to build. Hydroelectric dams destroy entire ecosystems by flooding valleys.
+Nuclear reactors currently take billions of dollars to construct, and face
+opposition from those who misunderstand radiation risks or associate fission
+energy with atomic weapons. Geothermal plants that harness heat from the
+planet’s molten core remain limited to seismic hot zones.
+
+But none of it matters if there aren’t enough transformers to steadily
+deliver electricity regardless of how it’s being generated, said Matheson,
+who
+served as a Democratic congressman from Utah before joining the rural
+electric
+coop’s leading trade association. When he first started hearing complaints
+about shortages in late 2021, they were coming from high-growth areas outside
+Atlanta and other parts of the South. Now it’s from all over, and it’s more
+than just “the price going up and lead times getting extended out.”
+
+“It used to be you’d order one and get it in 70 days. Then it suddenly went
+up to 350 days, a fivefold increase,” Matheson said. “That’s when we said,
+‘Uh-oh, somehow the system isn’t keeping up.’”
+
+Since amorphous steel can cost more and be tougher to work with, the federal
+government could provide funding to make up the difference for manufacturers
+and pay for training, according to a report published earlier this year by
+the
+Niskanen Center, a Washington-based think tank that promotes moderate policy
+solutions to both parties. Another solution would be to develop programs at
+the Department of Energy and Department of Homeland Security to stockpile
+transformers that could be released during shortages to keep the price down,
+like how the federal government sold off part of the Strategic Petroleum
+Reserve when oil prices soared.
+
+“We’re going to have a rapidly expanding grid, ideally, for years into the
+future,” said Johan Cavert, a transmission policy analyst at the Niskanen
+Center who authored the January report. “So we need a longer-term strategy.”
+
+But the short-term bottleneck needs a fix, Matheson said. An influx of new
+heat pumps, for example, would make “a pretty significant impact” on
+emissions, far more, he surmised, than improving the efficiency of
+transformers.
+
+“But that means making sure there’s distribution transformers out there so
+those heat pumps actually work,” Matheson said. “Let’s remember the bigger
+picture. At the end of the day, the consumer wants to have them work and heat
+their homes.”
+
+This story was updated to include a statement from PG&E.
+
+===== GreenPan’s Electric Kitchen Appliances Are 20% Off On Amazon =====
+
+Senior Reporter, HuffPost
+
+
+
+  ------------- SOURCE ----------------
+
+URL:
+ihttps://www.huffpost.com/entry/transformer-shortage_n_64645004e4b0005c6055c541
+
+LICENSE: ©2023 BuzzFeed, Inc. All rights reserved.
+
+=========================================
+
+
+$
+[B:t] The U.S. Is Running Low On The Machines Needed To Avoid Blackouts And Quit Fossil Fuels | HuffPost Impact
