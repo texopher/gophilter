@@ -14,6 +14,11 @@
 ```
 
 ```
+=========================================
+               SAMPLES
+  -------------------------------------
+
+https://stackoverflow.com/questions/7821801/javascript-indexof
 
 ```
 
