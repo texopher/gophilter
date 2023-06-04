@@ -1,0 +1,124 @@
+
+[1] Read Details
+
+Facebook bị phạt 1,2 tỷ euro vì không xử lý thỏa đáng dữ liệu người dùng
+
+Shiona McCallum Phóng viên công nghệ, BBC News
+
+22 tháng 5 2023
+
+Nguồn hình ảnh, Getty Images
+
+Meta, hãng sở hữu Facebook, bị phạt 1,2 tỷ euro (1 tỷ bảng Anh) vì xử lý
+không thỏa đáng dữ liệu của người dùng khi chuyển dữ liệu từ châu Âu sang Hoa
+Kỳ.
+
+Là khoản do Ủy ban Bảo vệ Dữ liệu (DPC) của Ireland tuyên phạt, đây là khoản
+tiền phạt lớn nhất được áp dụng theo luật bảo mật Quy định chung về Bảo vệ Dữ
+liệu của Liên minh châu Âu (GDPR).
+
+GDPR đặt ra những quy tắc mà các công ty phải tuân theo để chuyển dữ liệu
+người dùng ra bên ngoài EU.
+
+Meta nói họ sẽ kháng cáo phán quyết có nội dung "không chính đáng và không
+cần thiết" này.
+
+Điểm mấu chốt trong quyết định này là việc sử dụng các điều khoản hợp đồng
+tiêu chuẩn (SCC) để chuyển dữ liệu từ EU sang Hoa Kỳ.
+
+Các hợp đồng pháp lý này, do Ủy ban châu Âu chuẩn bị, bao gồm các biện pháp
+bảo vệ để đảm bảo dữ liệu cá nhân tiếp tục được bảo vệ khi chuyển ra bên
+ngoài
+châu Âu.
+
+Nhưng có những lo ngại rằng việc chuyển gian dữ liệu như vậy vẫn khiến người
+dùng ở châu Âu phải đối mặt với luật riêng tư của Hoa Kỳ, vốn quy định dễ dãi
+hơn so với châu Âu - và tình báo Hoa Kỳ có thể tiếp cận vào dữ liệu đó.
+
+'Tiền lệ nguy hiểm'
+
+===== 'Tiền lệ nguy hiểm' =====
+
+Hầu hết các công ty lớn đều có mạng lưới truyền dữ liệu phức tạp - trong đó
+có thể bao gồm địa chỉ email, số điện thoại và thông tin tài chính - tới
+người
+nhận ở nước ngoài, mà việc chuyển nhiều thông tin trong số những dữ liệu đó
+phụ thuộc vào SCC.
+
+Meta nói việc hãng bị phạt tiền do sử dụng các quy định có nội dung chung,
+khoáng đạt, là không công bằng.
+
+Chủ tịch Facebook Nick Clegg nói: "Do đó, chúng tôi rất thất vọng vì đã bị
+nhắm đích danh khi sử dụng cơ chế pháp lý giống như hàng ngàn công ty khác
+đang tìm cách cung cấp dịch vụ ở châu Âu."
+
+"Quyết định này là thiếu sót, không chính đáng và tạo tiền lệ nguy hiểm cho
+vô số công ty khác chuyển dữ liệu giữa EU và Hoa Kỳ."
+
+Trận chiến kéo dài hàng thập kỷ
+
+===== Trận chiến kéo dài hàng thập kỷ =====
+
+Năm 2013, cựu nhà thầu của Cơ quan An ninh Quốc gia Hoa Kỳ Edward Snowden
+tiết lộ chính quyền Mỹ đã nhiều lần truy cập thông tin của người dân thông
+qua
+các công ty công nghệ như Facebook và Google.
+
+Nhà vận động quyền riêng tư người Áo Max Schrems đã đệ đơn kiện Facebook là
+đã không bảo vệ quyền riêng tư của mình, gây ra cuộc chiến kéo dài hàng thập
+kỷ về tính hợp pháp của việc chuyển dữ liệu của EU sang Hoa Kỳ.
+
+Tòa án cao nhất của Châu Âu, Tòa án Công lý châu Âu (ECJ), đã nhiều lần nói
+rằng Washington không áp dụng đủ các biện pháp kiểm tra để bảo vệ thông tin
+của người dùng từ châu Âu.
+
+Từ 17/03/2023, luật DSA của EU có hiệu lực, nhằm "chấn chỉnh" các đại gia
+công nghệ
+
+Vào năm 2020, ECJ ra phán quyết rằng thỏa thuận chuyển dữ liệu từ EU sang Hoa
+Kỳ là không hợp lệ.
+
+Nhưng ECJ đã để ngỏ cho các công ty sử dụng SCC, nói rằng việc chuyển dữ liệu
+sang bất kỳ quốc gia thứ ba nào khác là hợp lệ miễn là nó đảm bảo "mức độ bảo
+vệ dữ liệu phù hợp".
+
+Đây là phép thử mà Meta đã dùng nhưng thất bại.
+
+'Tái cơ cấu một cách căn bản'
+
+===== 'Tái cơ cấu một cách căn bản' =====
+
+Khi được hỏi về khoản tiền phạt 1,2 tỷ euro, ông Schrems nói rằng ông "rất
+vui khi thấy quyết định này được đưa ra sau 10 năm kiện tụng" nhưng nói khoản
+phạt này lẽ ra có thể cao hơn nhiều.
+
+"Trừ khi luật giám sát của Hoa Kỳ được sửa chữa, Meta sẽ phải cơ cấu lại hệ
+thống của mình một cách căn bản," ông nói.
+
+Hoa Kỳ gần đây đã cập nhật các biện pháp bảo vệ pháp lý nội bộ của mình để
+đảm bảo với EU ở mức cao hơn rằng các cơ quan tình báo Hoa Kỳ sẽ tuân thủ các
+quy tắc mới trong vấn đề quản lý việc truy cập dữ liệu đó.
+
+Vào năm 2021, Amazon đã bị phạt tương tự, do vi phạm tiêu chuẩn quyền riêng
+tư của EU.
+
+DPC của Ireland cũng đã phạt WhatsApp, một hãng khác cũng thuộc sở hữu của
+Meta, vì vi phạm các quy định nghiêm ngặt liên quan đến tính minh bạch của dữ
+liệu được chia sẻ với các công ty con khác trong tập đoàn.
+
+===== Chủ đề liên quan =====
+
+
+
+  ------------- SOURCE ----------------
+
+URL:
+ihttps://www.bbc.com/vietnamese/business-65674133?at_medium=RSS&at_campaign=KARANGA
+
+LICENSE: © 2023 BBC
+
+=========================================
+
+
+$
+[B:t] Facebook bị phạt 1,2 tỷ euro vì không xử lý thỏa đáng dữ liệu người dùng - BBC News Tiếng Việt
