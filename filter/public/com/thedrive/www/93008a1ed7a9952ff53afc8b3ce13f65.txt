@@ -1,0 +1,93 @@
+
+[1] Read Details
+
+Car Buying NewsCar TechCultureDealsNews by BrandRacingTrucksWatch This Video
+
+The Drive InterviewsProject Car Diaries
+
+AccessoriesBuy & SellCar CareCar PartsCars 101Cleaning & DetailingGas &
+OilMaintenance & RepairToolsTires
+
+The hateful message was broadcast on Wallace’s team radio shortly after he
+crossed the line at North Wilkesboro Speedway.
+
+byLewin Day| PUBLISHED May 22, 2023 8:00 PM EDT
+
+NASCAR team radio transmissions can get vulgar or intense in the heat of the
+moment, but outbursts of anger are usually limited to drivers, spotters, and
+crew chiefs in the pits. At Sunday's All-Star Race, however, an unknown party
+jumped on Bubba Wallace's frequency with a derogatory message.
+
+As reported by Motorsport.com, the incident occurred shortly after Wallace
+passed the checkered flag at North Wilkesboro Speedway on Sunday. An
+unauthorized person was heard transmitting on Wallace's channel, which said
+“Go back to where you came from you asshole. You’re not wanted in NASCAR."
+After the incident, a spokesperson for 23XI Racing indicated that Wallace had
+not heard the comments, nor acknowledged them over the radio.
+
+Racing-wise, though, it was a good day for Wallace, albeit with a bittersweet
+ending. He finished second behind Kyle Larson, who left with the $1 million
+prize from the winner-takes-all race. “It just wasn’t meant to be,” Wallace
+said in a video on Twitter, adding “We were the best of the rest, so I guess
+we can be proud about that.” He made no mention of the radio incident.
+
+NASCAR has confirmed it is investigating the matter to determine the
+individuals involved and the manner in which they accessed Wallace's radio
+channel. While series like Formula 1 use advanced encrypted radios, it bears
+noting that NASCAR radio gear is decidedly more low-tech. This allows fans to
+listen in to the analog transmissions using simple radio scanners using
+frequency lists published online.
+
+Based on that, it's plausible that an off-the-shelf UHF radio could have
+allowed a bad actor to transmit on Bubba Wallace's channel for less than $50.
+Wallace himself may not have heard the transmission, though. In crowded radio
+environments like a racetrack, it's common to use a system like CTCSS that
+requires the transmitting radio to append a series of coded tones at the
+start
+of each transmission. Without those tones, Wallace's radio wouldn't have let
+the transmission through. The tones can be captured and spoofed, but this
+basic technique is enough to prevent most unsophisticated users from
+interfering with team transmissions.
+
+The series continues to take a careful stance given the acrimonious
+sentiments often displayed towards Wallace on social media. Wallace is
+currently the only Black driver racing full-time in NASCAR's top series. He's
+also only the second Black driver to win a race, after Wendell Scott back in
+1964. Wallace himself been outspoken against racism in the sport, too. He
+openly backed NASCAR's move to ban the Confederate flag from races, and
+parted
+ways with a helmet designer who came out in support of the racist symbol.
+
+It's not the first time the series has had to look into similar issues,
+either. In 2020, a noose was found tied in Wallace's garage. An FBI
+investigation into the matter found the garage pull rope had been tied in a
+hangman's knot the previous year before the stall was ever assigned to
+Wallace. Despite this, the incident led to a flare-up of abuse directed
+towards Wallace at the time.
+
+Subscribe to Drive Wire. Stay up to speed with the latest news, car reviews,
+and culture stories sent straight to your inbox daily.
+
+If incidents like the above occur at other races, NASCAR may look to lock
+down its radio systems. It would be a shame for fans who love to tune in from
+the stands, but there's no room for abuse—especially when drivers are
+circulating at hundreds of miles an hour.
+
+Got a tip? Let the author know: lewin@thedrive.com
+
+NASCARRacing
+
+
+
+  ------------- SOURCE ----------------
+
+URL:
+ihttps://www.thedrive.com/news/youre-not-wanted-in-nascar-bubba-wallace-targeted-by-hateful-radio-hack
+
+LICENSE: © 2022 Recurrent Ventures. All Rights Reserved.
+
+=========================================
+
+
+$
+[B:t] 'You're Not Wanted in NASCAR': Bubba Wallace’s Radio Hijacked During Race
