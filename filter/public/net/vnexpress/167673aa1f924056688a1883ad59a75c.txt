@@ -1,0 +1,61 @@
+
+[1] Read Details
+
+Meta, công ty mẹ của Facebook, bị phạt 1,3 tỷ USD vì chuyển thông tin người
+dùng châu Âu sang Mỹ, là mức kỷ lục tại đây liên quan đến dữ liệu.
+
+Trong quyết định đưa ra hôm nay, Cơ quan quản lý quyền riêng tư của Liên minh
+châu Âu cho rằng nền tảng Facebook đã lưu trữ bất hợp pháp dữ liệu về người
+dùng châu Âu trong nhiều năm trên các máy chủ ở Mỹ. Điều này khiến dữ liệu có
+thể bị truy cập bởi cơ quan tình báo Mỹ mà người dùng không thể bảo vệ.
+
+Ngoài phạt tiền, Meta cũng bị yêu cầu ngừng gửi thông tin về Mỹ và xóa dữ
+liệu trước đó trong vòng sáu tháng kể từ ngày phán quyết.
+
+Giám đốc điều hành Meta Mark Zuckerberg. Ảnh: Reuters
+
+Công ty của Mark Zuckerberg tuyên bố sẽ kháng cáo, đánh giá đây là "khoản
+tiền vô lý và không cần thiết", đồng thời sẽ tạo tiền lệ nguy hiểm cho các
+công ty khác.
+
+Meta cùng nhiều công ty công nghệ Mỹ thường chuyển dữ liệu về Mỹ, nơi họ vận
+hành các trung tâm dữ liệu chính để cung cấp dịch vụ. Châu Âu đã áp dụng Quy
+định bảo vệ dữ liệu chung (GDPR) từ 2018. Để chuyển thông tin của người dùng
+ra khỏi khu vực, Meta đã sử dụng một cơ chế là "điều khoản hợp đồng tiêu
+chuẩn", trong đó có thỏa thuận về chuyển dữ liệu xuyên Đại Tây Dương giữa
+Liên
+minh châu Âu và Mỹ.
+
+Năm 2020, tòa án tại châu Âu hủy bỏ cơ chế này vì lo ngại khả năng giám sát
+và bảo vệ dữ liệu. Tuy nhiên từ đó đến nay, Facebook được cho là vẫn không
+tuân thủ. Năm ngoái, công ty từng cảnh báo lệnh cấm có thể khiến họ buộc phải
+ngừng cung cấp Facebook tại châu Âu. Đây là thị trường có 255 triệu người
+dùng
+và chiếm gần một phần tư doanh thu của Meta.
+
+Theo các nhà phân tích, Meta hy vọng thỏa thuận chuyển dữ liệu giữa EU và Mỹ
+sẽ được thông qua sớm. Trên blog của công ty, Nick Clegg, Chủ tịch của Meta
+về
+các vấn đề toàn cầu, nói sẽ tìm cách trì hoãn phán quyết bởi "do tác hại mà
+lệnh này gây ra có thể ảnh hưởng tới hàng triệu người dùng Facebook mỗi
+ngày".
+
+1,2 tỷ EUR (1,3 tỷ USD) là mức phạt cao nhất mà châu Âu từng đưa ra với một
+công ty vi phạm GDPR. Năm 2021, các cơ quan hành pháp tại đây cũng từng phạt
+Amazon 746 triệu EUR, và công ty này cũng đang kháng cáo.
+
+Lưu Quý (theo WSJ, Reuters)
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://vnexpress.net/facebook-bi-phat-ky-luc-1-3-ty-usd-4608353.html
+
+LICENSE: © 1997-2023. Toàn bộ bản quyền thuộc VnExpress
+
+=========================================
+
+
+$
+[B:t] Facebook bị phạt kỷ lục 1,3 tỷ USD - VnExpress Số hóa
