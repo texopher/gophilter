@@ -1,0 +1,162 @@
+
+[1] Read Details
+
+Asked 11 years, 7 months ago
+
+Modified 3 years, 6 months ago
+
+Viewed 11k times
+
+6
+
+I'm not well clued up with javascript so I'm having a problem getting the
+following script to work. I need to check if a name entered is also contained
+within a message.
+
+<input type="hidden" id="Message" value="<%= rsDetail.Fields("Message") %>">
+<input type="hidden" id="FirstName" value="<%=
+rsDetail.Fields("FirstName")%>">
+
+<script type="text/javascript">
+<!--
+function NameCheck(){
+var FirstName=document.getElementByID('FirstName');
+var CardMessage=document.getElementByID('Message');
+var aPosition = CardMessage.indexOf('FirstName');
+
+if (aPosition == -1)
+alert("Name Not In Message.");
+}
+-->
+</script>
+
+<a href="NextPage.asp" onClick="NameCheck();">Proceed</a>
+
+asked Oct 19, 2011 at 13:11
+
+– aroth
+
+7 Answers 7
+
+===== 7 Answers 7 =====
+
+12
+
+It seems like you are trying to get the value of the input FirstName.
+getElementById() only returns the node itself. Instead access its value:
+
+var FirstName = document.getElementById('FirstName').value;
+var CardMessage = document.getElementById('Message').value;
+
+// Then use the variable `FirstName` instead of the quoted string
+var aPosition = CardMessage.indexOf(FirstName);
+
+// Best practice would be to use === for strict type comarison here...
+if (aPosition === -1)
+alert("Name Not In Message.");
+}
+
+Also, note that you've misspelled getElementById, with a capital D at the end
+where it should be lowercase.
+
+answered Oct 19, 2011 at 13:13
+-----------------------------------------
+
+– Darren Cook
+
+1
+
+– Michael Berkowski
+
+1
+
+This what you are trying, I think.
+
+var FirstName=document.getElementById('FirstName').value;
+var CardMessage=document.getElementById('Message').value;
+var aPosition = CardMessage.indexOf( FirstName );
+
+answered Oct 19, 2011 at 13:14
+-----------------------------------------
+
+1
+
+'FirstName' with quote is string, not the variable FirstName. You need:
+
+// remove the quote, pass the variable FirstName instead of string
+'FirstName'
+var aPosition = CardMessage.indexOf(FirstName);
+
+EDIT: I missed two things before. First you need to get the value of the
+node, and second is the uppercase D. So the correct code is:
+
+var FirstName = document.getElementById('FirstName').value;
+var aPosition = CardMessage.indexOf(FirstName);
+
+answered Oct 19, 2011 at 13:13
+-----------------------------------------
+
+1
+
+Best way to use jQuery. Your code we can minified to max 2 line:
+
+$("#click").click(function() {
+var found = $('#Message').val().indexOf($("#FirstName").val());
+console.log(found);
+});
+
+answered Oct 19, 2011 at 13:37
+-----------------------------------------
+
+0
+
+document.getElementByID should be document.getElementById
+
+answered Oct 19, 2011 at 13:14
+-----------------------------------------
+
+0
+
+The indexOf() method returns the position of the first occurrence of a
+specified value in a string. This method returns -1 if the value to search
+for
+never occurs. Note: The indexOf() method is case sensitive.
+
+answered Nov 15, 2019 at 5:55
+-----------------------------------------
+
+-1
+
+Try :
+
+var FirstName=document.getElementByID('FirstName');
+var aPosition = CardMessage.indexOf(FirstName);
+
+In your exemple you are looking for the following string FirstName not the
+value of the variable FirstName
+
+answered Oct 19, 2011 at 13:14
+-----------------------------------------
+
+===== Your Answer =====
+
+By clicking “Post Your Answer”, you agree to our terms of service and
+acknowledge that you have read and understand our privacy policy and code of
+conduct.
+
+===== Not the answer you're looking for? Browse other questions tagged
+javascript or ask your own question. =====
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://stackoverflow.com/questions/7821801/javascript-indexof
+
+LICENSE: Creative Commons Attribution-ShareAlike
+
+=========================================
+
+
+$
+[B:t] Javascript indexOf - Stack Overflow
