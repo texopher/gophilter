@@ -1,0 +1,219 @@
+
+[1] Read Details
+
+Augmented reality needs an iPhone moment
+
+===== ‘This is the single greatest thing that could happen to this industry.’
+=====
+
+By Adi Robertson, a senior tech and policy editor focused on VR, online
+platforms, and free expression. Adi has covered video games, biohacking, and
+more for The Verge since 2011.
+
+Jun 4, 2023, 1:45 PM UTC| Comments
+
+===== Share this story =====
+
+Apple turned the iPod into a status symbol. A headset might be a taller
+order. Photo by Justin Sullivan / Getty Images
+
+As Apple prepares its long-rumored jump into augmented reality on Monday,
+doubts have shadowed every step of the way. There are reports of frequent
+changes in direction and skepticism inside Apple’s ranks. The device has
+allegedly been hard to manufacture and required numerous compromises. The
+process has taken years longer than Apple expected. And at a rumored $3,000,
+even Apple reportedly expects slow short-term sales.
+
+But among AR professionals, the mood is jubilant. “This is the single
+greatest thing that could happen to this industry,” says Jay Wright, CEO of
+VR
+/ AR collaboration platform Campfire 3D. “Whether you make hardware or
+software. We’re excited about it.”
+
+No industry needs Apple’s “it just works” ethos like AR
+
+Building on positive reviews from industry trailblazers like Palmer Luckey,
+AR hardware and software makers say Apple can finally validate a decade of
+attempts to take the technology mainstream. Some of this optimism is driven
+by
+Apple’s rumored specs, including a lightweight design and a supposedly
+extraordinarily high-spec screen.
+
+Proponents point to Apple’s history of entering a market once other companies
+have laid the groundwork, as it did with phones. But much of it can be summed
+up in two statements: Apple can sell hardware, and Apple is cool.
+
+No tech category needs Apple’s “it just works” promise more than AR. (This
+format is sometimes called “mixed reality” or “XR,” just to underscore how
+muddled the consumer pitch is.) Pure consumer VR — while a small market — has
+coalesced around relatively popular genres like fitness apps, a few common
+storefronts like SteamVR and the Quest store, and a widely used controller
+scheme.
+
+AR has no such guarantees.
+
+Its hardware is wildly varied, ranging from bulky headsets with sophisticated
+tracking to smart glasses that do little more than show alerts. Its software
+is often geared toward hyper-specialized business uses. There’s no settled
+consensus on control schemes.
+
+Based on numerous leaks, Apple’s headset uses what’s called “passthrough” AR.
+It features high-resolution screens and is capable of running full VR
+applications, but it’s also studded by cameras that can pass through a
+high-resolution image of the real world — according to rumors, you’ll hit a
+“reality dial” to switch between AR and VR. That means it can offer the
+illusion of a real world with virtual objects overlaid on it.
+
+Related Meta’s Quest 3 revealed and a WWDC preview | The Vergecast
+
+Passthrough avoids some of the problems that AR glasses like Magic Leap and
+Microsoft HoloLens face, like translucent virtual objects and a limited field
+of view. Meta, the biggest player in consumer headsets, chose the style for
+its Quest Pro design last year. But the Quest Pro had a grainy, washed-out
+video feed and offered limited practical applications for its AR mode. A
+virtual office, for instance, required a convoluted syncing process with your
+Mac or PC. And Meta has generally focused on the lower end of the VR and AR
+market — it’s also including passthrough as a selling point on the upcoming
+$499 Quest 3.
+
+By contrast, multiple people speculated that Apple’s headset could be like
+the Tesla Roadster: a flashy, expensive sports car that sold people on the
+concept of electric vehicles. “Apple makes devices in a way that are actually
+useful and comfortable to people and make people care about it,” says Jacob
+Loewenstein, SVP of 3D social platform Spatial, which has appeared on
+numerous
+AR and VR devices.
+
+“There’s going to be so much garbage out there, and there’s going to be some
+cool stuff, too.”
+
+The exact uses of Apple’s rumored tech aren’t known yet. CEO Tim Cook has
+said AR is for “communication” and “connection,” and it will reportedly
+feature FaceTime capability that can render a person’s face and body. It’s
+said to also offer access to iPad apps, games, entertainment via Apple’s TV
+app, and a version of Apple Fitness Plus. “One of the reasons why I think
+Apple is immensely successful in many of their ventures is they’re not just
+launching a device, they’re launching an ecosystem,” says Gartner analyst
+Tuong Nguyen, who covers the VR / AR market. “It’s that combination of
+different applications applied to different use cases for different users —
+that is the ‘killer app.’”
+
+Apple reportedly isn’t expecting a large early market for the device — it’s
+revised its expectations downward to under a million units a year, compared
+to
+200 million or more iPhones. Still, despite the device’s rumored cost, some
+predict a gold rush of app designers trying to replicate the success of early
+iPhone developers. “I’ve been like, wait, why am I not making some goofy
+version of some application that everyone likes — like, being one of the
+first
+to-do apps on the Apple headset?” says Gabe Baker, VP of browser-based VR
+collaboration platform Frame. “There’s going to be so much garbage out there,
+and there’s going to be some cool stuff, too — it’s going to be a fun time.”
+
+Related Apple’s mixed reality headset: all the reports about the rumored AR /
+VR headset A short history of every time Apple CEO Tim Cook praised augmented
+reality WWDC 2023: what to expect and how to watch Apple’s Worldwide
+Developers Conference
+
+Apple has an ambivalent relationship with web developers, who form a niche
+but notable subset of the AR / VR industry. Safari has badly lagged at
+supporting WebXR, a common standard for browser-based immersive experiences,
+on iOS. But the browser is reportedly launching on its headset, which will
+put
+web-based AR in the spotlight. “We’re cautiously optimistic that Apple will
+actually make Safari a viable application on their upcoming hardware,” says
+Baker. “Meta has shown that the web browser can actually be a vehicle for
+high
+quality immersive content, hands-down, and I think Apple will want that on
+their headset.”
+
+The iPhone’s decade-plus dominance has demonstrated plenty of downsides to
+“it just works.” Apple has mastered the walled garden, and many app
+developers
+who work inside it aren’t happy with the results. It’s spent years fighting
+some prominent developers like Epic and Match Group in court, and others have
+testified in Congress about having their apps locked down and undercut by
+Apple’s own copycats.
+
+Apple is still pushing into a field that’s bested some of the biggest
+companies in tech
+
+But for AR and VR developers, the alternative to an Apple walled garden may
+be a desert. Many apps — particularly non-gaming ones — have pivoted onto
+more
+conventional computing devices as one headset after another has failed to
+capture a consumer market. A key exception has been Meta, which has defied
+expectations with its Quest 2 for VR. That’s raised the opposite problem: a
+system where some developers and regulators worry Meta could monopolize the
+nascent industry, and some competing hardware companies have expressed
+irritation at the Quest’s rock-bottom, ad-subsidized prices.
+
+“I think the other thing that’s compelling is the arms race that it starts
+between Meta and Apple. We’ve never really had these two titans go head to
+head before on a new platform,” says Loewenstein. And even for hardware
+makers, Apple’s entry isn’t necessarily a bad thing — the AR glasses market
+is
+small enough that any new attention to the space is welcome.
+
+Despite the excitement inside the industry, Apple is still pushing into a
+field that has bested some of the biggest companies in tech. Google and
+Microsoft have both debuted AR headsets with flashy consumer-friendly
+applications (in Microsoft’s case, an AR edition of Minecraft) only to end up
+with a far less ambitious enterprise-focused product. So has the lavishly
+funded startup Magic Leap.
+
+Moreover, few people seem to think passthrough AR is an endpoint for the
+medium. As Nguyen points out, a passthrough headset poses basic safety risks
+compared to a more glasses-like system: if its video feed stutters or goes
+dark, it temporarily blinds the user. That makes it risky to use outside a
+controlled home or office environment. “I see the Apple device as being a
+replacement of my iMac,” says Nima Shams, VP at DigiLens, a longtime maker of
+optics for glasses-style headsets. “I don’t see the device being a
+replacement
+of my iPhone.” Apple has reportedly been working on a transparent,
+non-passthrough headset, too — but it’s not what anyone expects to see on
+Monday.
+
+There are pragmatic reasons to believe Apple’s better positioned than these
+companies. For one thing, the tech has matured significantly since Google
+started testing Glass in 2012, Microsoft announced HoloLens in 2015, and
+Magic
+Leap revealed its first product in 2018. For another, Apple has a consumer
+hardware track record that virtually no other company can match. That
+includes
+not only carefully produced industrial design and interfaces like trackpads
+but, in recent years, its own fairly powerful chips. “If we were facing
+rumors
+of a similar headset made by someone not Apple, I don’t think it would be all
+that successful,” says IDC research manager Jitesh Ubrani. “Apple has huge
+scale, huge developer support, huge consumer support — and no one else comes
+even close to that.”
+
+But the most emotionally compelling argument is simply that Apple can make
+even weird-looking products — like AirPods, compared to everything from
+Q-tips
+to sperm — socially acceptable. As Loewenstein puts it, “the key has always
+been very, very simple: is this thing useful? Is this thing comfortable? And
+is this thing cool?” Meta has demonstrated VR’s value for games, but the
+company’s uncoolness is a running joke, from the famous picture of an MWC
+audience strapped into headsets to CEO Mark Zuckerberg’s much-maligned
+legless
+avatar. “I think Apple has the cool factor.”
+
+And if it doesn’t? Well, if you’ve stuck around the world of consumer AR for
+this long, you can probably handle disappointment.
+
+
+
+  ------------- SOURCE ----------------
+
+URL:
+ihttps://www.theverge.com/2023/6/4/23747110/apple-headset-augmented-reality-vr-industry-rumors-wwdc-2023
+
+LICENSE: © 2023 Vox Media, LLC. All Rights Reserved
+
+=========================================
+
+
+$
+[B:t] Apple’s Reality Pro headset could make augmented reality cool - The Verge
