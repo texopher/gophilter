@@ -1,0 +1,33 @@
+=========================================
+              HARD TO READ
+  -------------------------------------
+
+This page is hard to read. Please choose:
+
+[1] Read web via proxy
+
+[1] Read js web via proxy
+
+[1] Read web (details) via proxy
+
+[1] Read js web (details) via proxy
+
+[h] Read web directly
+
+  -------------------------------------
+
+[1] Read Details
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://www.nascar.com/drivers/bubba-wallace
+
+LICENSE: Copyright © 2023 NASCAR Digital Media, LLC. All rights reserved.
+
+=========================================
+
+
+$
+[B:t] Just a moment...
