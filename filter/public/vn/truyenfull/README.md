@@ -14,6 +14,12 @@
 ```
 
 ```
+=========================================
+               SAMPLES
+  -------------------------------------
+  
+https://truyenfull.vn/tao-tac/
+https://truyenfull.vn/tao-tac/chuong-1/
 
 ```
 
