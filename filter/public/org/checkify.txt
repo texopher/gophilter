@@ -1,0 +1,8 @@
+
+checkify.txt
+www.nga.org
+quackwatch.org
+en.wikipedia.org
+en.m.wikipedia.org
+simple.m.wikipedia.org
+simple.wikipedia.org
