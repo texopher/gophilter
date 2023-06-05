@@ -1,0 +1,87 @@
+
+[1] Read Details
+
+This article does not have any sources. You can help Wikipedia by finding
+good sources, and adding them. (October 2019)
+
+The Kelvin scale (symbol: K) is the SI unit of temperature. It is named in
+honour of the physicist William Thomson, the first Lord Kelvin (1824–1907). 0
+degree Celsius = 273 kelvin
+
+===== Definition =====
+
+The Kelvin scale is defined by a specific relationship between the pressure
+of a gas and the temperature. This says that "the pressure of the gas is
+directly proportional to the temperature in Kelvin". This means that Kelvin
+is
+an absolute temperature scale, and scientists use this scale more than any
+other.
+
+The kelvin is a base SI unit of measurement, since 2018 defined by setting
+the fixed numerical value of the Boltzmann constant k to 1.380649×10−23
+J⋅K−1.[1]
+
+The temperature of the triple point of water is a hundredth of a degree
+Celsius above the freezing point, or 0.01 °C. The coldest possible
+temperature
+is called absolute zero and is equal to -273.15 degrees Celsius, or zero
+kelvin (0 K). By writing temperatures in kelvins one does not need to use
+negative numbers.
+
+The absolute temperature scale was designed so that a change in temperature
+of 1 kelvin is equal to a change of 1 degree Celsius. This means that it is
+easy to convert a temperature from degrees Celsius to kelvin.
+
+It is important to notice that the name of this unit is simply kelvin (with a
+lowercase initial), not "degree Kelvin". In English, it undergoes normal
+plural inflection as kelvins. For example, the boiling point of liquid
+nitrogen is 77 kelvins.
+
+In everyday use, the kelvin is most commonly used to measure very low or very
+high temperatures, such as the temperature of liquid nitrogen or the
+temperature of a light bulb filament.
+
+===== References =====
+
+↑ "Kelvin: Boltzmann Constant". NIST. 2018-05-15. Retrieved 2021-02-16.{{cite
+journal}}: CS1 maint: url-status (link)
+
+===== Related pages =====
+
+v t e
+
+Authority: International System of Units (BIPM)
+
+ampere candela kelvin kilogram metre mole second
+
+becquerel coulomb degree Celsius farad gray henry hertz joule katal lumen lux
+newton ohm pascal radian siemens sievert steradian tesla volt watt weber
+
+astronomical unit bar dalton day decibel degree of arc electronvolt hectare
+hour litre minute minute of arc neper second of arc tonne atomic units
+natural
+units
+
+Conversion of units Metric prefixes Systems of measurement
+
+Retrieved from
+"https://simple.wikipedia.org/w/index.php?title=Kelvin&oldid=8336350"
+
+Categories: SI units Units of temperature
+
+Hidden categories: CS1 maint: url-status Articles lacking sources from
+October 2019 All articles lacking sources
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://simple.wikipedia.org/wiki/Kelvin
+
+LICENSE: Creative Commons Attribution/Share-Alike and GFDL
+
+=========================================
+
+
+$
+[B:t] Kelvin - Simple English Wikipedia, the free encyclopedia
