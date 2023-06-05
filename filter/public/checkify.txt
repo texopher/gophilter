@@ -2,3 +2,5 @@
 checkify.txt
 com
 gov
+net
+org
