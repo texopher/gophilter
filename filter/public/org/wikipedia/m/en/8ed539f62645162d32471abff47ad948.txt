@@ -1,0 +1,195 @@
+
+[1] Read Details
+
+The Leica R8 & R9 are manual focus 35 mm single-lens reflex cameras produced
+by the German firm Leica as the final models of their R series. Development
+of
+the R8 began in 1990:[1] the camera was introduced at the 1996 photokina
+trade
+show,[2] and was succeeded by the similar Leica R9 in 2002.[2]
+
+Both can be fitted with the Digital Modul R (DMR) digital back (discontinued
+in 2007 [1]) and used as a digital camera making them the only 35 mm SLRs to
+take a user-installable digital back. The R8 was the first R-series camera to
+have no association with Minolta, being solely a Leica design and showing a
+clear stylistic change compared to prior bodies.
+
+===== Contents =====
+
+===== Design =====
+
+Industrial designer Manfred Meinzer was chiefly responsible for the R8
+design,[3] along with a team of designers largely new to Leica or drawn from
+outside. The R8 was intended as a clean break from the previous generation of
+Leica R cameras, which had been developed in cooperation with Minolta. A key
+design goal was to evoke the Leica M and its smooth top plate;[1] instead of
+a
+raised pentaprism as in previous R series cameras, the R8 has sloped
+"shoulders" that blend almost seamlessly into the pentaprism housing. The
+shape is strongly asymmetrical, especially in plan view, with a bulged right
+handgrip and smaller, tapered left-hand side.
+
+Another goal was to improve the ergonomics and to place controls so they
+could be easily reached and operated without removing the eye from the
+viewfinder.[1] Although the R8 is capable of fully automated exposure and
+(with the addition of the integrally-styled motor drive or winder) automated
+film transport, the location of the shutter speed dial lends itself to manual
+exposure control, as many Leica customers preferred this. In this it differs
+strongly from other contemporary SLRs, which were designed primarily for
+automatic operation. The top control wheels are sunk into the top plate, with
+knurled edges protruding at the front where they can easily be operated by
+the
+photographer's fingertips.
+
+The R8 is substantially larger and heavier than the R4-R7 series cameras,
+being about a third heavier at 890g than the R7. This is partly explained by
+being built to take and balance the heavier zoom lenses in the Leica R lens
+range. The styling of the R8 proved controversial, some photographers
+consider
+it ugly and dubbed it the "Hunchback of Solms"[4] (Solms is the German town
+where Leica was headquartered; the company moved back to its original home
+town of Wetzlar in 2014). The size and bulk of the camera attracted much
+criticism although the R8/9 fitted with motor winder were almost exactly the
+same size and weight as the preceding R7 with motor winder.
+
+===== Technical information =====
+
+The R8 was without doubt the most complex camera Leica had ever constructed
+containing extensive electronics including a microprocessor, despite its
+manual operation bias, and in addition was built in a very modular fashion to
+integrate seamlessly with motor drive units and new backs such as the Digital
+Modul R.
+
+The shutter used was a Copal vertically running metal-leaf unit[1] capable of
+speeds between 1/8000 and 32 seconds steplessly in automatic modes, or to 16
+seconds in half-stop steps in manual mode, as well as Bulb. The flash X-sync
+speed is 1/250 sec.
+
+The shutter release is in the center of the shutter-speed dial and is
+threaded for a cable release. The optional Motor-Drive gives additional front
+and vertical-grip releases.
+
+The highly sophisticated metering system allows free choice of metering mode
+and exposure mode. By contrast, the earlier R4-R7 series lacked multi pattern
+metering and offered only pre-set combinations of metering and exposure.
+
+Three metering modes are offered:
+
+and five exposure modes:
+
+Mounted on the secondary mirror itself was a single cell for selective
+measurement and in the camera base was a five segment cell for integrated
+measurement with multi-pattern measurement. Using both provided six
+measurement areas. Switching of both metering mode and exposure mode was
+electronic. Flash pre-exposure measurement was provided allowing the camera's
+meter to measure manually controlled flash such as studio flash. Pre-flash
+measurement was always selective and in addition to automatic TTL flash
+measurement during exposure with suitable automatic flash units which was
+always full field using two small light cells either side of the main
+multi-pattern cell. Exposure compensation was available in all exposure
+modes.
+
+Program mode can be biased towards longer or shorter shutter speeds by using
+the shutter speed dial. Also in program mode automatic flash exposure was
+fully controlled by the camera: off in daylight conditions, fill in flash
+with
+low light, full flash when dark. Normal flash synchronisation speed is 1/250s
+and with suitable flash units can be up to the camera's highest speed of
+1/8000s.
+
+The viewfinder display was digital LED visible in any lighting.
+
+The same bayonet and stepped cam of earlier R cameras was used, but
+additional electrical contacts called "ROM Contacts" were added to convey
+lens
+focal length setting. Any lens fitted with the R stepped cam may be used, but
+very early lenses fitted only with sloped cams (1 or 2 cam lenses) may damage
+the ROM contacts and should first be fitted with the stepped cam.
+
+Lens / camera combinations are as follows:
+
+Leica 1 cam, 2 cam, 3 cam, & R stepped cam lenses may be fitted with ROM
+contacts but as this entails removal of the original sloped cams they would
+then be incompatible with the original Leicaflex cameras. This was the first
+break in on-going compatibility of Leica reflex lenses.
+
+===== R9 =====
+
+The R9 was an evolutionary step from the R8 and appears superficially very
+similar; enough so that some have opined that it should have been simply a
+Mark II of the R8, or in Leica nomenclature, an "R8.2".[2]
+
+The silver top-plate color available on the R8 was replaced by an
+'Anthracite' color on the R9; black remained available. Another external
+change was the addition of an LCD frame counter on the top plate between the
+wind lever and the shutter-speed dial. The mode selector dial gained a lock,
+after many R8 user complaints that it was too easily moved from the desired
+setting when handling the camera. The rear LCD display gained a backlight so
+it could be viewed in dim lighting.
+
+The mass of the R9 was reduced by 100g (to 790g) from the R8, achieved by
+switching to a magnesium casting for the top plate (formerly zinc alloy) and
+substituting aluminum for steel at the bottom plate's frame.
+
+Electronic changes included the ability to tune the sensitivity of matrix
+metering in steps of 0.1 EV independently of the other metering modes, and
+several improvements to the flash support. Metz's HSS (High Speed Sync) flash
+mode was now supported, allowing fill flash at shutter speeds greater than
+the
+X-sync speed by the use of many repeated small flashes of the electronic
+flashgun. This mode could be used from 1/360 to the camera's shortest 1/8000
+of a second shutter speed. Also improved was the use of fill-flash at slower
+shutter speeds and wider apertures, by enabling lower-power illumination
+modes
+on modern Metz equipment. The manual flash exposure compensation ability in
+Program mode was improved, and AE lock was now possible in all automated
+modes.
+
+===== Accessories =====
+
+Leica sell a number of dedicated accessories for the R8 and R9. In addition
+to the Digital Modul R, these comprise the following:[5]
+
+===== End of the R series =====
+
+On Wednesday, 4 March 2009, Leica announced via the L-Newsletter that no
+further stock was available and production of the R series cameras and
+accessories had ended.[3]
+
+===== Specifications =====
+
+===== References =====
+
+^ a b c d Erwin Puts. "Leica R8 Design". Photosite. Archived from the
+original on 2001-04-15. ^ a b "Leica Product Timeline". Leica Camera AG. ^
+Manfred Meinzer Industrial Design. "MM-designed products from LEICA Camera
+AG". Archived from the original on 2013-06-13. Retrieved 2006-08-14. ^ Mike
+Johnston. "Has Leica Lost It?". The Sunday Morning Photographer. Archived
+from
+the original on 2013-01-23. Retrieved 2006-08-14. ^ Leica Camera AG. "R
+System
+Accessories". ^ Leica Camera AG. "Leica Motor-Winder R8/R9". ^ Leica Camera
+AG. "Leica Motor-Drive R8/R9". ^ Leica Camera AG. "Leica R8 User Manual".
+
+===== External links =====
+
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Leica_R8-R9&oldid=1094190742"
+
+Last edited on 21 June 2022, at 07:19
+
+Languages Deutsch فارسی Français Русский
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://en.m.wikipedia.org/wiki/Leica_R8-R9#R9
+
+LICENSE: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+
+=========================================
+
+
+$
+[B:t] Leica R8-R9 - Wikipedia
