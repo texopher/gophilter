@@ -1,0 +1,4 @@
+gophilter=yes
+license=© 2023 MATT RIFE
+hard_read=yes
+hard_read_all=yes
