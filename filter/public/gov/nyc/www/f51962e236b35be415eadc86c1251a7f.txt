@@ -1,0 +1,42 @@
+=========================================
+              HARD TO READ
+  -------------------------------------
+
+This page is hard to read. Please choose:
+
+[1] Read web via proxy
+
+[1] Read js web via proxy
+
+[1] Read web (details) via proxy
+
+[1] Read js web (details) via proxy
+
+[h] Read web directly
+
+  -------------------------------------
+
+[1] Read Details
+
+===== The official website of NYC =====
+
+The mapping applications below are designed to make living in New York City
+easier and to provide New Yorkers with ways to live an engaged civic life.
+From 311 service requests and crime locations, to schools and public
+services,
+use these resources for staying geographically connected to the city. Check
+back periodically as the list will continue to expand.
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://www.nyc.gov/nyc-resources/nyc-maps.page
+
+LICENSE: © City of New York. 2023 All Rights Reserved
+
+=========================================
+
+
+$
+[B:t] NYC Maps | City of New York
