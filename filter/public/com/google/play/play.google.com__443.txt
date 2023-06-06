@@ -3,3 +3,5 @@ cut_first_same_1=About this app
 cut_last_same_1=Data safety
 cut_line_same_1=About this app
 cut_line_same_2=Data safety
+hard_read=yes
+hard_read_all=yes
