@@ -1,0 +1,4 @@
+gophilter=yes
+license=© 2022 All Right Reserved | MAPS.ME
+hard_read=yes
+hard_read_all=yes
