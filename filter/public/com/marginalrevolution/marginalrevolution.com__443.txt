@@ -1,0 +1,5 @@
+gophilter=yes
+license=© Marginal Revolution 2023
+hard_read=yes
+hard_read_all=yes
+usediv=yes
