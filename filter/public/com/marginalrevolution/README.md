@@ -8,7 +8,7 @@
   __/ |     | |                           
  |___/      |_|                           
 -----------------------------------------
-   /filter/public/com/marginrevolution
+ /filter/public/com/marginalrevolution
 -----------------------------------------
 %
 ```
