@@ -1,0 +1,57 @@
+=========================================
+              HARD TO READ
+  -------------------------------------
+
+This page is hard to read. Please choose:
+
+[1] Read web via proxy
+
+[1] Read js web via proxy
+
+[1] Read web (details) via proxy
+
+[1] Read js web (details) via proxy
+
+[h] Read web directly
+
+  -------------------------------------
+
+[1] Read Details
+
+===== Description =====
+
+Navigate your world faster and easier with Google Maps. Over 220 countries
+and territories mapped including hundreds of millions of businesses and
+destinations. Get real-time GPS navigation, traffic, and transit info, and
+find what you need by getting the latest information on businesses, including
+grocery stores, pharmacies and other important places. Get where you need to
+go efficiently: • Find the best route with automatic rerouting based on live
+traffic, incidents, and road closure Find important businesses: • Know what’s
+open in your area and their latest business hours • Find local restaurants
+offering delivery and takeout • Create lists of your important places Get
+there faster with real-time updates • Beat traffic with real-time ETAs and
+traffic conditions • Catch your bus, train, or ride-share with real-time
+transit info • Save time with automatic rerouting based on live traffic,
+incidents, and road closure • With Live View in Google Maps, see the way you
+need to go with arrows and directions placed right on top of your world.
+There’s no second guessing or missing another turn. More experiences on
+Google
+Maps • Offline maps to search and navigate without an internet connection •
+Street View and indoor imagery for restaurants, shops, museums and more •
+Indoor maps to quickly find your way inside big places like airports, malls
+and stadiums Some features not available in all countries Navigation isn't
+intended to be used by oversized or emergency vehicles
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://apps.apple.com/us/app/google-maps/id585027354
+
+LICENSE: Copyright © 2023 Apple Inc. All rights reserved.
+
+=========================================
+
+
+$
+[B:t] ‎Google Maps on the App Store
