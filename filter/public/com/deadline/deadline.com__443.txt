@@ -3,6 +3,6 @@ license=© 2023 Deadline Hollywood, LLC. All Rights Reserved.
 cut_head_same_1=Breaking News
 cut_head_same_2=Must Read Stories
 cut_first_same_1=~~~~~ Breaking News
-cu_last_same_1=~~~~~ Must Read Stories
+cut_last_same_1=~~~~~ Must Read Stories
 cut_line_same_1=~~~~~ Breaking News
 cut_line_same_2=~~~~~ Must Read Stories
