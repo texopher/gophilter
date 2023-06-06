@@ -64,3 +64,4 @@ deadline.com
 www.facebook.com
 docs.google.com
 support.google.com
+workspace.google.com
