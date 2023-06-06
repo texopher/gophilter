@@ -1,0 +1,114 @@
+
+[1] Read Details
+
+Apple’s $3,499 Vision Pro AR headset is finally here
+
+Brian Heater @bheater / 1 day
+
+After a reported seven years of development, Apple’s AR headset is finally
+here. It’s been a minute since we’ve had a “one more thing” moment. The
+wisdom, efficacy and ultimate fate of the product have yet to be determined,
+but one thing we can finally say for certain: Unlike the long-rumored Apple
+television and car, it’s real and it’s finally here.
+
+“With Vision Pro, you’re no longer limited by a display,” Apple CEO Tim Cook
+said, introducing the new headset at WWDC 2023. Unlike earlier mixed reality
+reports, the system is far more focused on augmented reality than virtual.
+The
+company refresh to this new paradigm is “spatial computing.”
+
+It’s a way of interacting with the computing UI — something the company is
+referring to as a kind of input device, akin to a mouse or trackpad. The
+headset is surprisingly similar to earlier renders — it does, indeed, look
+like ski googles. Clearly this thing isn’t meant to be worn outside the home
+or office.
+
+The headset is based on an aluminum frame, with curved glass up front.
+There’s a physical button for image capture and a digital crown for
+adjustments. The rear is a flexible strap, and a visor extends from the
+display to the wearer’s head, to keep light out. On the sides are built-in
+“audio pods,” providing the sound.This is finally spatial audio’s time to
+shine — it’s now clear why Apple has been pushing it in such a big way. The
+system is designed to create the illusion of different audio sources.
+
+The headset runs on the standard M2 chip, paired with a new R1 chip, which
+takes on the video streaming. The displays are micro-OLED, with an impressive
+64 pixels in roughly the space of a standard iPhone pixel. The three-element
+lens is designed to improve the imaging from all angles. The company also
+teamed up with Zeiss to bring custom prescription glass inserts, rather than
+accommodating for the wearer’s glasses.
+
+The hardware utilizes a new feature called “EyeSight,” which uses a
+front-facing display to reveal your eyes to other people in the room
+(compensating for the opaque visor), creating an “authentic representation of
+you” on the curved front glass. This is accomplished through an initial
+facial
+scan. That image is also used as your avatar to represent you to other people
+wearing the headset.
+
+While the product is, indeed, mixed reality (owing to the need for on-board
+passthrough), the company seems disinterested in engaging in the virtual
+reality conversation.
+
+Interestingly, it does appear to be a work-first device. It’s telling that
+the company is focused on things like email, rather than, say, gaming. In
+fact, users can actually bring a version of their Mac desktop over, projected
+out in front of them. Apple really went to great lengths to avoid a
+touchscreen Mac, it seems.
+
+The opaque display lets the room darken around images. In fact, the company
+is really pushing 2D photos taken from the iPhone here. There’s a 3D camera
+built in, as well, allowing users to capture “Spatial” photos and videos.
+There’s a movie theater option, too, taking advantage of the illusion of a
+full, large screen. There is gaming here, but rather than an actual VR
+experience, it’s a large screen projection, with standard games.
+
+Disney (who else?) is the first content partner here, which does bode well
+for future experiences. Bob Iger took to the stage today to announce that
+Disney+ will be available at launch on the device. The entertainment mogul
+understandably had a lot of faith in Apple here.
+
+In spite of earlier rumors around an adapted iPadOS, the company introduced
+VisionOS, a new operating system “designed from the ground up” for spatial
+computing. Much like the iPad’s initial launch, there are a number of
+educational features, including astronomical and health apps, as well as one
+for music creation.
+
+Apple says the system will work with Microsoft Office apps, as well as
+teleconferencing services like WebEX and Zoom. VisionOS runs on the same
+framework as iOS and iPad OS, meaning that existing apps will port over. The
+company is also launching a new App Store specifically for the headset. It’s
+teamed with Unity, as well, to support development tools for games, which
+should offer a better experience than simply porting over existing games.
+
+A new version of FaceID called OpticId brings security features for using
+things like Apple Pay. Meanwhile, camera data is processed onboard and the
+company doesn’t log where you look.
+
+What’s clear is this is all extremely early stages. For one thing, the
+product was announced today, in order to bring more developers onboard. For
+another, the experience as depicted in the presentation is all renders. Of
+course, that also owes to the difficulty of presenting a 3D experience on a
+2D
+video — this is something the company will keep running into with the
+product.
+
+It will be available early next year. Better start saving up now, because
+this thing is going to run $3,499. Yep. It’s clearly focused on enterprise
+buyers, rather than regular consumers. Keep in mind, however, the “Pro” part
+of the name seems to suggest that a more affordable (relatively speaking)
+version will be coming at some point in the future.
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://techcrunch.com/2023/06/05/apple-headset/
+
+LICENSE: © 2023 Yahoo.All rights reserved.
+
+=========================================
+
+
+$
+[B:t] Apple’s $3,499 Vision Pro AR headset is finally here | TechCrunch
