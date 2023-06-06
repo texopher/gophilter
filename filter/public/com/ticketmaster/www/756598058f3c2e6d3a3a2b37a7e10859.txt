@@ -1,0 +1,33 @@
+=========================================
+              HARD TO READ
+  -------------------------------------
+
+This page is hard to read. Please choose:
+
+[1] Read web via proxy
+
+[1] Read js web via proxy
+
+[1] Read web (details) via proxy
+
+[1] Read js web (details) via proxy
+
+[h] Read web directly
+
+  -------------------------------------
+
+[1] Read Details
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://www.ticketmaster.com/matt-rife-tickets/artist/2431961
+
+LICENSE: © 1999-2023 Ticketmaster. All rights reserved.
+
+=========================================
+
+
+$
+[B:t] 
