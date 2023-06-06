@@ -1,0 +1,7 @@
+gophilter=yes
+license=© 2023 Reuters. All rights reserved
+cut_head_same_1=Read Next
+cut_last_same_1=~~~~~ Read Next
+cut_line_same_1=~~~~~ Read Next
+cut_line_same_2=More
+cut_line_same_3=My View
