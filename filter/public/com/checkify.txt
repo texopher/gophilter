@@ -58,3 +58,4 @@ apps.apple.com
 earth.google.com
 www.bing.com
 www.mapquest.com
+www.mattrifeofficial.com
