@@ -1,0 +1,4 @@
+gophilter=yes
+license=©2003 Google
+hard_read=yes
+hard_read_all=yes
