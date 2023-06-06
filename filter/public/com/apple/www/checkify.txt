@@ -3,3 +3,4 @@ checkify.txt
 https://www.apple.com/apple-vision-pro/
 https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/
 https://www.apple.com/maps/
+https://www.apple.com/
