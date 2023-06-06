@@ -1,0 +1,35 @@
+=========================================
+              HARD TO READ
+  -------------------------------------
+
+This page is hard to read. Please choose:
+
+[1] Read web via proxy
+
+[1] Read js web via proxy
+
+[1] Read web (details) via proxy
+
+[1] Read js web (details) via proxy
+
+[h] Read web directly
+
+  -------------------------------------
+
+[1] Read Details
+
+Shopping Flights Travel Hotels
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://www.bing.com/maps/
+
+LICENSE: © 2023 Microsoft
+
+=========================================
+
+
+$
+[B:t] Bing Maps - Directions, trip planning, traffic cameras & more
