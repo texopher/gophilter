@@ -1,0 +1,34 @@
+=========================================
+              HARD TO READ
+  -------------------------------------
+
+This page is hard to read. Please choose:
+
+[1] Read web via proxy
+
+[1] Read js web via proxy
+
+[1] Read web (details) via proxy
+
+[1] Read js web (details) via proxy
+
+[h] Read web directly
+
+  -------------------------------------
+
+[1] Read Details
+
+
+
+  ------------- SOURCE ----------------
+
+URL:
+ihttps://marginalrevolution.com/marginalrevolution/2023/06/apple-vision-pro.html
+
+LICENSE: © Marginal Revolution 2023
+
+=========================================
+
+
+$
+[B:t] 403 Forbidden
