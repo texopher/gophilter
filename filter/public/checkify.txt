@@ -7,3 +7,4 @@ org
 uk
 vn
 google
+info
