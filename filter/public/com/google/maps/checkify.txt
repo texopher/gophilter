@@ -1,3 +1,4 @@
 
 checkify.txt
 https://maps.google.com/maps?hl=en&q=Google\NMaps&um=1&ie=UTF-8&sa=X&ved=0ahUKEwj42dmF0K7_AhUunokEHZV8CTcQ_AUIBigB
+https://maps.google.com/
