@@ -1,0 +1,308 @@
+
+[1] Read Details
+
+Introducing
+
+Welcome to the era of spatial computing.
+
+Apple Vision Pro seamlessly blends digital content with your physical space.
+
+You navigate simply by using your eyes, hands, and voice.
+
+So you can do the things you love in ways never before possible.
+
+You’ve never seen everything like this before.
+
+===== Apple Vision Pro =====
+
+Available early next year in the U.S.
+
+===== Apple Vision Pro Gallery =====
+
+A singular piece of three-dimensionally formed laminated glass flows into an
+aluminum alloy frame that gently curves to wrap around your face.
+
+An array of advanced cameras and sensors work together to let you see the
+world clearly, understand your environment, and detect hand input.
+
+Speakers are positioned close to your ears, delivering rich Spatial Audio
+that seamlessly blends with real-world sounds.
+
+The Head Band provides cushioning, breathability, and stretch. The Fit Dial
+lets you adjust Vision Pro precisely to your head.
+
+A pair of custom micro‑OLED displays deliver more pixels than a 4K TV to each
+eye — for stunning clarity.
+
+The Light Seal gently conforms to your face, delivering a precise fit while
+blocking out stray light.
+
+Press the Digital Crown to bring up the Home View, and turn it to control
+your level of immersion while using Environments.
+
+Press the top button to take spatial videos and spatial photos in the moment.
+
+The external battery supports up to 2 hours of use, and all‑day use when
+plugged in.1
+
+Click or tap each tab to explore Apple Vision Pro.
+
+===== Apps =====
+
+Free your desktop. And your apps will follow.
+
+With Vision Pro, you have an infinite canvas that transforms how you use the
+apps you love. Arrange apps anywhere and scale them to the perfect size,
+making the workspace of your dreams a reality — all while staying present in
+the world around you. Browse the web in Safari, create a to-do list in Notes,
+chat in Messages, and seamlessly move between them with a glance.
+
+Vision Pro has the familiar apps you know and love — transformed to live in
+your space. Like Safari, Photos, Music, and Messages. And with iCloud, your
+content is automatically synced with your iPhone, iPad, and Mac.
+
+A brand‑new App Store will launch with Vision Pro, featuring groundbreaking
+apps built for visionOS, as well as compatible iPad and iPhone apps.
+
+Environments magically transform your surroundings with stunning landscapes,
+letting apps grow beyond the dimensions of your room, and creating the
+perfect
+place to focus.
+
+Vision Pro brings 3D objects to life. You can pull a 3D object out of an app
+and look at it from every angle, as if it’s right in front of you.
+
+Bring your Mac wirelessly into Vision Pro with Mac Virtual Display. You can
+place it anywhere in space and use Vision Pro as an enormous, private,
+portable 4K display.
+
+Vision Pro works with Bluetooth accessories like Magic Keyboard and Magic
+Trackpad, which are great for things like complex spreadsheets and long
+emails.
+
+Apps can expand fully into your space, like during a Mindfulness session,
+where you can create a private moment of calm.
+
+===== Entertainment =====
+
+The ultimate theater. Wherever you are.
+
+Vision Pro can transform any room into your own personal theater. Expand your
+movies, shows, and games up to the perfect size while feeling like you’re
+part
+of the action with Spatial Audio. And with more pixels than a 4K TV for each
+eye, you can enjoy stunning content wherever you are — whether that’s a long
+flight or the couch at home.
+
+Turn your room into a personal movie theater with the Cinema Environment.
+Enjoy shows and movies at the frame rate and aspect ratio the filmmaker
+intended with immersive Spatial Audio. Or use a majestic Environment like Mt.
+Hood to make your screen feel 100 feet wide.
+
+All‑new Apple Immersive Videos are 180-degree 3D 8K recordings captured with
+Spatial Audio — putting you right inside the action and transporting you to
+places you’ve never been.
+
+Your favorite movies and TV shows from Apple TV+ and other streaming services
+are available on Vision Pro.
+
+visionOS games in Apple Arcade offer completely new ways to play by using the
+space around you. Find over 100 of your favorite iPad games, and also play
+using Bluetooth game controllers.
+
+===== Photos and Videos =====
+
+Be in the moment. All over again.
+
+Vision Pro is Apple’s first 3D camera. You can capture magical spatial photos
+and spatial videos in 3D, then relive those cherished moments like never
+before with immersive Spatial Audio. Your existing library of photos and
+videos looks incredible at remarkable scale. And panoramas wrap around you —
+making you feel like you’re standing right where you took them.
+
+The top button makes it quick and easy to capture spatial videos or photos.
+
+When you’re capturing a spatial video or photo, Vision Pro makes it clear to
+those around you that you’re recording.
+
+Spatial videos and photos have incredible depth that lets you see into a
+moment. Expand them to get even closer to your favorite memories.
+
+===== Connection =====
+
+Get on the same page. In the same space.
+
+Vision Pro makes it easy to collaborate and connect wherever you are.
+FaceTime video tiles are life-size, and as new people join, the call simply
+expands in your room. Within FaceTime, you can also use apps to collaborate
+with colleagues on the same documents simultaneously.
+
+In FaceTime, each participant appears in your space within a tile that you
+can adjust in scale. Spatial Audio makes the conversation feel more natural
+by
+placing each person’s voice in the location of their tile.
+
+Your digital Persona allows others to see you while you’re wearing Vision
+Pro. It’s a dynamic, natural representation of your face and hand movements
+while you’re using FaceTime.
+
+Share apps with others and use them together in FaceTime with SharePlay. You
+continue to see everyone in large video tiles while sharing an app.
+
+===== Design =====
+
+Designed by Apple.
+
+Apple Vision Pro is the result of decades of experience designing
+high‑performance, mobile, and wearable devices — culminating in the most
+ambitious product Apple has ever created. Vision Pro integrates incredibly
+advanced technology into an elegant, compact form, resulting in an amazing
+experience every time you put it on.
+
+A singular piece of three-dimensionally formed laminated glass acts as an
+optical surface for the cameras and sensors that view the world. It flows
+seamlessly into a custom aluminum alloy frame that gently curves to wrap
+around your face while serving as an attachment point for the Light Seal.
+
+The Light Seal magnetically attaches to the aluminum alloy frame. It gently
+flexes to conform to individual face shapes.
+
+The Head Band is 3D knitted, creating a unique rib structure that provides
+cushioning, breathability, and stretch.
+
+Zeiss Optical Inserts can be customized with your vision prescription,2
+magnetically attaching to the lenses for precise viewing and eye tracking.
+
+An aluminum‑encased battery can be slipped into a pocket for portable power.
+It connects using a woven braided cable.
+
+===== visionOS =====
+
+Apple’s first spatial operating system.
+
+Built on the foundation of macOS, iOS, and iPadOS, visionOS enables powerful
+spatial experiences. Control Vision Pro with your eyes, hands, and voice —
+interactions feel intuitive and magical. Simply look at an element, tap your
+fingers together to select, and use the virtual keyboard or dictation to
+type.
+
+In visionOS, apps can fill the space around you, beyond the boundaries of a
+display. They can be moved anywhere, scaled to the perfect size, react to the
+lighting in your room, and even cast shadows.
+
+Environments let you transform the space around you, so apps can extend
+beyond the dimensions of your room. Choose from a selection of beautiful
+landscapes, or magically replace your ceiling with a clear, open sky. The
+Digital Crown gives you full control over how immersed you are.
+
+Vision Pro helps you remain connected to those around you. EyeSight reveals
+your eyes and lets those nearby know when you’re using apps or fully immersed
+in an experience. When someone approaches, Vision Pro simultaneously lets you
+see the person and reveals your eyes to them.
+
+Navigate visionOS simply by looking at apps, buttons, and text fields. App
+icons and buttons subtly come to life when you look at them.
+
+Tap your fingers together to make a selection and gently flick to scroll.
+Vision Pro is designed to understand hand gestures from comfortable
+positions,
+like resting in your lap or on the sofa.
+
+Simply look at the microphone button in a search field and start speaking to
+dictate text.
+
+Use Siri to quickly open or close apps, play media, and more.
+
+Like every Apple product, Vision Pro was designed with accessibility in mind.
+The flexible input system lets you use your eyes, hands, and voice
+individually or in any combination with features like Dwell, Voice, and
+Pointer Control.
+
+===== Technology =====
+
+Innovation you can see, hear, and feel.
+
+The custom micro‑OLED display system features 23 million pixels, delivering
+stunning resolution and colors. And a specially designed three‑element lens
+creates the feeling of a display that’s everywhere you look.
+
+Dual-driver audio pods positioned next to each ear deliver personalized sound
+while letting you hear what’s around you. Ambient Spatial Audio makes sounds
+feel like they’re coming from your surroundings. And with audio raytracing,
+Vision Pro analyzes your room’s acoustic properties — including the physical
+materials — to adapt and match sound to your space.
+
+A high-performance eye tracking system of LEDs and infrared cameras projects
+invisible light patterns onto each eye. This advanced system provides
+ultraprecise input without your needing to hold any controllers, so you can
+accurately select elements just by looking at them.
+
+A pair of high-resolution cameras transmit over one billion pixels per second
+to the displays so you can see the world around you clearly. The system also
+helps deliver precise head and hand tracking and real‑time 3D mapping, all
+while understanding your hand gestures from a wide range of positions.
+
+A unique dual‑chip design enables the spatial experiences on Vision Pro. The
+powerful M2 chip simultaneously runs visionOS, executes advanced computer
+vision algorithms, and delivers stunning graphics, all with incredible
+efficiency. And the brand-new R1 chip is specifically dedicated to process
+input from the cameras, sensors, and microphones, streaming images to the
+displays within 12 milliseconds — for a virtually lag-free, real-time view of
+the world.
+
+The LiDAR Scanner and TrueDepth camera work together to create a fused 3D map
+of your surroundings, enabling Vision Pro to render digital content
+accurately
+in your space.
+
+A specially designed thermal system gently moves air through Vision Pro, so
+it can deliver phenomenal performance while remaining cool and quiet.
+
+Infrared flood illuminators work with the external sensors to enhance hand
+tracking performance in low‑light conditions.
+
+===== Privacy and Security =====
+
+When it comes to privacy, we don’t blink.
+
+Use Optic ID to authorize purchases and unlock passwords with the uniqueness
+of your iris. Optic ID data is encrypted, never leaves your device, and is
+accessible only to the Secure Enclave processor.
+
+Data from cameras and sensors is processed at the system level, so individual
+apps do not need to see your surroundings to enable spatial experiences.
+
+Eye input is not shared with Apple, third-party apps, or websites. Only your
+final selections are transmitted when you tap your fingers together.
+
+===== Use AR to view Apple Vision Pro. =====
+
+Open this page using Safari on your iPhone or iPad.
+
+===== An all‑new platform. An all‑new world for developers. =====
+
+The possibilities for what developers can dream up and build for Vision Pro
+are endless. And with familiar tools and frameworks like Xcode, SwiftUI,
+RealityKit, and ARKit, as well as support for Unity and the new 3D-content
+preparation app Reality Composer Pro, developers have everything they need to
+create amazing spatial experiences.
+
+===== Stay up to date. =====
+
+Get updates on Apple Vision Pro, including news about availability.
+
+===== Apple Footer =====
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://www.apple.com/apple-vision-pro/
+
+LICENSE:
+
+=========================================
+
+
+$
+[B:t] Apple Vision Pro - Apple
