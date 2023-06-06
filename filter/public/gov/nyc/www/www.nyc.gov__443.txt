@@ -5,7 +5,11 @@ hard_read_regex_1=^(\\/nyc-resources\\/nyc-maps.page).*$
 cut_head_same_1=Primary Navigation
 cut_head_same_2=More on NYC.gov
 cut_first_same_1=~~~~~ Primary Navigation
-cut_last_same_2=~~~~~ More on NYC.gov
+cut_last_same_1=~~~~~ More on NYC.gov
 cut_line_same_1=~~~~~ Primary Navigation
 cut_line_same_2=~~~~~ More on NYC.gov
+cut_line_same_3=MayorBiographyNewsOfficials
+cut_line_same_4=Search
+cut_line_start_1=.Stay in Touch.
+
 
