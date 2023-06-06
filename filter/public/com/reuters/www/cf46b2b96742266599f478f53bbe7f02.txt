@@ -1,0 +1,144 @@
+
+[1] Read Details
+
+By Stephen Nellis
+
+CUPERTINO, California, June 5 (Reuters) - Apple (AAPL.O) on Monday unveiled a
+costly augmented-reality headset called the Vision Pro in its riskiest bet
+since the introduction of the iPhone more than a decade ago, barging into a
+market dominated by Meta (META.O).
+
+At its annual developer conference, Apple also introduced a raft of new
+products and features, including a 15-inch MacBook Air, a powerful chip
+called
+M2 Ultra, improvements to its iOS software and a long-awaited tweak to
+prevent
+its autocorrect from annoyingly changing a common expletive to "ducking".
+
+The Vision Pro will start at $3,499, more than three times the cost of the
+priciest headset in Meta's line of mixed and virtual reality devices.
+
+The headset will test a market crowded with devices that have yet to gain
+traction with consumers and put it in direct competition with Facebook-owner
+Meta after years of clashes between the companies over issues like user
+privacy and control of developer platforms.
+
+Apple emphasized the novelty of the headset's augmented reality features as
+well as the sports and entertainment partnerships it would offer. The device
+will use a new chip called R1 that will process information from its sensors
+in less time than the blink of an eye, Apple said.
+
+But the announcements failed to excite Wall Street, which had bid up Apple
+shares to a record high ahead of the launch. The stock was largely flat in
+post-market trading.
+
+"Wealthy, techie early adopters will buy the Vision Pro in droves, but still
+years to move the needle for the mammoth Apple," said David Rolfe, chief
+investment officer of Wedgewood Partners that has owned Apple stock since
+2005.
+
+Rolfe said there was not yet a mass market for the headset but lauded the
+product's technological chops. "Apples Vision Pro reminds me of the very
+early
+days of the personal computer revolution. It took many years for the PC to
+become a mainstream product. Same with VisionPro."
+
+Users of the Vision Pro will be able to select content inside the goggles
+with their eyes, tap their fingers together to click and gently flick to
+scroll, while also using a three-dimensional camera and microphone system to
+capture videos and pictures than can be viewed in 3D later.
+
+In its most visually striking difference from Meta's headsets, the device
+also has an exterior display that shows the user's eyes to people in the
+outside world.
+
+The exterior screen goes dark when a user is fully immersed in a virtual
+world. When a person approaches a user who is in full virtual mode, the
+headset will show both the user and the outside person to each other, an
+augmented reality advancement over Meta's devices, which show a more basic
+video feed of the outside world.
+
+"It's the first Apple product you look through, not at," Apple CEO Tim Cook
+said.
+
+Apple's headset will be available early next year in the U.S. with more
+countries coming later in 2024.
+
+===== HEAD-TO-HEAD =====
+
+[1/4] People use cameras as Apple's Vision Pro headsets are on display at
+Apple's annual Worldwide Developers Conference at the company's headquarters
+in Cupertino, California, U.S. June 5, 2023. REUTERS/Loren Elliott
+
+Investors will want to know the overlap between Apple's view of the virtual
+reality market and that of Meta, which currently controls nearly 80% of the
+market for AR/VR devices, according to market research firm IDC.
+
+Meta Chief Executive Mark Zuckerberg has outlined his vision for using
+headsets to dip in and out of a "metaverse" where people can meet virtually
+to
+work, play and spend. Apple executives eschewed the term.
+
+"The core difference to me is Zuckerberg is trying to create a virtual world
+that he wants us to be in, and it seems to me that Apple wants to keep us
+still anchored in our world and just augment it," said Carolina Milanesi, an
+analyst at Creative Strategies.
+
+In addition to Meta, Sony Group Corp (6758.T) and ByteDance-owned Pico both
+produce virtual reality devices.
+
+IDC said all these companies sold a total of 8.8 million headsets last year.
+
+Apple said it has been working with Adobe (ADBE.O) and Microsoft (MSFT.O) to
+put their apps on the new headset, as well as Unity (U.N), a technology
+company that works with game developers. Unity shares surged 17% after the
+announcement.
+
+Walt Disney's (DIS.N) Disney+ streaming service will be available on the
+Vision Pro, as will the collection of movies and TV shows from Apple TV+.
+
+Apple also showed how the headset can be used with a trackpad and keyboard to
+work like a traditional computer with multiple displays.
+
+The Vision Pro has two hours of use with an external battery, which Apple
+said would reduce the weight on the user's head. However, the device must be
+plugged into the wall or battery pack and there is no standalone use.
+
+Meta's top of the line Quest Pro mixed reality device, which blends virtual
+reality with the real world video feed, offers about two hours of battery
+life
+directly on the headset, without an external battery pack. Meta also offers
+Microsoft apps on its Quest devices.
+
+Apple did not make any major announcements about generative AI products
+similar to ChatGPT or Google's Bard search engine, but quietly imbued several
+smaller features with AI, like live transcriptions of voice mails.
+
+It introduced a new version of the Mac Pro, its highest-performing desktop,
+with a company-designed M2 Ultra chip.
+
+Until Monday, the Mac Pro was the last computer in Apple's lineup that still
+used an Intel (INTC.O) chip. Intel fell 4.6% after Apple dropped its chips
+from its most powerful desktop.
+
+Reporting by Stephen Nellis; Additional reporting by Yuvraj Malik, Raechel
+Job and Shanima A in Bengaluru; Dawn Chmielewski in Los Angeles; Writing by
+Katie Paul and Lisa Shumaker; Editing by Peter Henderson, Aditya Soni,
+Sayantani Ghosh and Ken Li
+
+Our Standards: The Thomson Reuters Trust Principles.
+
+
+
+  ------------- SOURCE ----------------
+
+URL:
+ihttps://www.reuters.com/technology/apple-expected-reveal-mixed-reality-headset-developer-conference-2023-06-05/
+
+LICENSE: © 2023 Reuters. All rights reserved
+
+=========================================
+
+
+$
+[B:t] Apple to sell Vision Pro AR headset for triple Meta's top-line price | Reuters
