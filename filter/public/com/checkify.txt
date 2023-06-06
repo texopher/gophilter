@@ -49,3 +49,4 @@ sports.yahoo.com
 www.yahoo.com
 www.youtube.com
 www.apple.com
+www.reuters.com
