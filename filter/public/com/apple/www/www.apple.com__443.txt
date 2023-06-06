@@ -8,3 +8,4 @@ cut_last_same_3=Press Contacts
 cut_line_same_1=~~~~~ Apple Footer
 cut_line_same_2=~~~~~ Press Contacts
 cut_line_same_3=Learn more Order now
+cut_line_same_4=Press Contacts
