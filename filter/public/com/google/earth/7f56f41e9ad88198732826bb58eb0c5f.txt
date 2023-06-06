@@ -1,0 +1,44 @@
+=========================================
+              HARD TO READ
+  -------------------------------------
+
+This page is hard to read. Please choose:
+
+[1] Read web via proxy
+
+[1] Read js web via proxy
+
+[1] Read web (details) via proxy
+
+[1] Read js web (details) via proxy
+
+[h] Read web directly
+
+  -------------------------------------
+
+[1] Read Details
+
+Aw snap! Google Earth isn't supported on your browser. You may need to update
+your browser or use a different browser. Please see our system requirements
+for more information. Chrome is a great choice and you can download it here.
+
+Or if you're feeling adventurous, you can try Earth anyway by choosing an
+option below.
+
+Launch Wasm Multiple ThreadedLaunch Wasm Single Threaded
+
+Learn more about Google Earth.
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://earth.google.com/
+
+LICENSE:
+
+=========================================
+
+
+$
+[B:t] Google Earth
