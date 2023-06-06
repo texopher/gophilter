@@ -1,1 +1,2 @@
 gophilter=yes
+license=Copyright © 2023 Apple Inc. All rights reserved.
