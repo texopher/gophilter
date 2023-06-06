@@ -1,0 +1,37 @@
+
+[1] Read Details
+
+===== New ways AI is making Maps more immersive =====
+
+With advancements in AI, there are new ways to understand your route with
+Maps. Plus, new immersive tools for developers.
+
+Top Stories
+
+===== Top Stories =====
+
+Series
+
+===== Maps 101 =====
+
+Google Maps helps you navigate, explore, and get things done every single
+day. In this series, we’ll take a look under the hood at how Google Maps uses
+technology to build helpful products—from using flocks of sheep and laser
+bea…
+
+New ways we tackle fake contributions on Google Maps How AI and imagery build
+a self-updating map How reviews on Google Maps work View this series
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://blog.google/products/maps/
+
+LICENSE:
+
+=========================================
+
+
+$
+[B:t] Maps | Google Blog
