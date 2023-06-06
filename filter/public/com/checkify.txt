@@ -57,3 +57,4 @@ play.google.com
 apps.apple.com
 earth.google.com
 www.bing.com
+www.mapquest.com
