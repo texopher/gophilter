@@ -1,6 +1,0 @@
-gophilter=yes
-cut_first_same_1=×
-cut_last_same_1=~~~~~ All the Latest
-cut_line_same_1=×
-cut_line_same_2=~~~~~ All the Latest
-cut_head_same_1=All the Latest
