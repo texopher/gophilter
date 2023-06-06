@@ -1,0 +1,118 @@
+=========================================
+              HARD TO READ
+  -------------------------------------
+
+This page is hard to read. Please choose:
+
+[1] Read web via proxy
+
+[1] Read js web via proxy
+
+[1] Read web (details) via proxy
+
+[1] Read js web (details) via proxy
+
+[h] Read web directly
+
+  -------------------------------------
+
+[1] Read Details
+
+Close Menu
+
+Search Search
+
+Schedules Maps Fares & Tolls Planned Work
+
+We have detected you are using an out-of-date browser. We no longer support
+this browser, so parts of the site might not work as you expect them to. We
+recommend updating your browser to the latest version.
+
+Maps
+
+===== New York City subway maps =====
+
+The New York City Subway map. This map shows typical weekday service.
+
+A view of how the subway system runs overnights.
+
+The subway map with accessible stations highlighted.
+
+The standard subway map with larger labels and station names.
+
+This map shows planned service in certain severe weather conditions.
+
+===== Other subway maps =====
+
+Neighborhood maps
+
+Open Subway Bathrooms
+
+Regional transit diagram
+
+Text maps for individual lines
+
+Service guide
+
+Group station manager map
+
+Learn about our Subway Map Pilot
+
+===== New York City bus maps =====
+
+A map of the Bronx bus routes.
+
+Brooklyn Bus Map
+
+The regular service Manhattan bus map.
+
+A map of the Queens bus routes.
+
+A map of the Staten Island bus routes.
+
+Only express bus routes.
+
+===== Borough bus service guides =====
+
+Bronx Bus Service Guide
+
+Brooklyn Bus Service Guide
+
+Manhattan Bus Service Guide
+
+Queens Bus Service Guide
+
+Staten Island Bus Service Guide
+
+Staten Island Express Bus Service Guide
+
+===== Railroad maps =====
+
+MTA Railroads Network
+
+===== Bridges and Tunnels map =====
+
+THE MTA About the MTA Contact Us Careers Transparency
+
+INFORMATION Doing Business With Us Press Releases Arts & Design NY Transit
+Museum & Shop
+
+MTA Social Media
+
+===== Powered by =====
+
+Translate
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://new.mta.info/maps
+
+LICENSE:
+
+=========================================
+
+
+$
+[B:t] MTA Maps
