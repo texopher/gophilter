@@ -291,15 +291,13 @@ create amazing spatial experiences.
 
 Get updates on Apple Vision Pro, including news about availability.
 
-===== Apple Footer =====
-
 
 
   ------------- SOURCE ----------------
 
 URL: https://www.apple.com/apple-vision-pro/
 
-LICENSE:
+LICENSE: Copyright © 2023 Apple Inc. All rights reserved.
 
 =========================================
 
