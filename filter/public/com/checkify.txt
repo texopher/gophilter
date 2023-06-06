@@ -54,3 +54,4 @@ techcrunch.com
 marginalrevolution.com
 maps.google.com
 play.google.com
+apps.apple.com
