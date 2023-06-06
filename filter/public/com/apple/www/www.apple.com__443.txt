@@ -1,2 +1,9 @@
 gophilter=yes
 license=Copyright © 2023 Apple Inc. All rights reserved.
+cut_head_same_1=Apple Footer
+cut_head_same_2=Press Contacts
+cut_last_same_1=~~~~~ Apple Footer
+cut_last_same_2=~~~~~ Press Contacts
+cut_line_same_1=~~~~~ Apple Footer
+cut_line_same_2=~~~~~ Press Contacts
+
