@@ -48,3 +48,4 @@ news.yahoo.com
 sports.yahoo.com
 www.yahoo.com
 www.youtube.com
+www.apple.com
