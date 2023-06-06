@@ -1,4 +1,0 @@
-gophilter=yes
-license=© 2023 Microsoft
-hard_read=yes
-hard_read_regex_1=^(\\/maps\\/).*$
