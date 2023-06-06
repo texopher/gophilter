@@ -1,0 +1,172 @@
+
+[1] Read Details
+
+First impressions: Yes, Apple Vision Pro works and yes, it’s good
+
+Matthew Panzarino @Panzer / 1 day
+
+After a roughly 30 minute demo that ran through the major features that are
+yet ready to test I came away convinced that Apple has delivered nothing less
+than a genuine leapfrog in capability and execution of XR — or mixed reality
+with its new Apple Vision Pro.
+
+To be super clear, I’m not saying it delivers on all promises, is a genuinely
+new paradigm in computing or any other high-powered claim that Apple hopes to
+deliver on once it ships. I will need a lot more time with the device than a
+guided demo.
+
+But, I’ve used essentially every major VR headset and AR device since 2013’s
+Oculus DK1 right up through the latest generations of Quest and Vive
+headsets.
+I’ve tried all of the experiences and stabs at making fetch happen when it
+comes to XR. I’ve been awed and re-awed as developers of the hardware and
+software of those devices and their marquee apps have continued to chew away
+at the “conundrum of the killer app” — trying to find something that would
+get
+real purchase with the broader public.
+
+There are some genuine social, narrative or gaming successes like Gorilla
+Tag, VRChat or Cosmonius. I’ve also been moved by first-person experiences by
+Sundance filmmakers highlighting the human (or animal) condition.
+
+But none of them had the advantages that Apple brings to the table with Apple
+Vision Pro. Namely, 5,000 patents filed over the past few years and an
+enormous base of talent and capital to work with. Every bit of this thing
+shows Apple-level ambition. I don’t know whether it will be the “next
+computing mode,” but you can see the conviction behind each of the choices
+made here. No corners cut. Full-tilt engineering on display.
+
+The hardware is good — very good — with 24 million pixels across the two
+panels, orders of magnitude more than any headsets most consumers have come
+into contact with. The optics are better, the headband is comfortable and
+quickly adjustable and there is a top strap for weight relief. Apple says it
+is still working on which light seal (the cloth shroud) options to ship with
+it when it releases officially but the default one was comfortable for me.
+They aim to ship them with varying sizes and shapes to fit different faces.
+The power connector has a great little design, as well, that interconnects
+using internal pin-type power linkages with an external twist lock.
+
+There is also a magnetic solution for some (but not all) optical adjustments
+people with differences in vision may need. The onboarding experience
+features
+an automatic eye-relief calibration matching the lenses to the center of your
+eyes. No manual wheels adjusting that here.
+
+The main frame and glass piece look fine, though it’s worth mentioning that
+they are very substantial in size. Not heavy, per se, but definitely present.
+
+If you have experience with VR at all then you know that the two big barriers
+most people hit are either latency-driven nausea or the isolation that long
+sessions wearing something over your eyes can deliver.
+
+Apple has mitigated both of those head on. The R1 chip that sits alongside
+the M2 chip has a system-wide polling rate of 12ms, and I noticed no judder
+or
+framedrops. There was a slight motion blur effect used in the passthrough
+mode
+but it wasn’t distracting. The windows themselves rendered crisply and moved
+around snappily.
+
+Of course, Apple was able to mitigate those issues due to a lot of completely
+new and original hardware. Everywhere you look here there’s a new idea, a new
+technology or a new implementation. All of that new comes at a price: $3,500
+is on the high end of expectations and firmly places the device in the power
+user category for early adopters.
+
+Here’s what Apple got right that other headsets just couldn’t nail down:
+
+The eye tracking and gesture control is near perfect. The hand gestures are
+picked up anywhere around the headset. That includes on your lap or low and
+away resting on a chair or couch. Many other hand-tracking interfaces force
+you to keep your hands up in front of you, which is tiring. Apple has
+high-resolution cameras dedicated to the bottom of the device just to keep
+track of your hands. Similarly, an eye-tracking array inside means that,
+after
+calibration, nearly everything you look at is precisely highlighted. A simple
+low-effort tap of your fingers and boom, it works.
+
+Passthrough is a major key. Having a real-time 4k view of the world around
+you that includes any humans in your personal space is so important for
+long-session VR or AR wear. There is a deep animal brain thing in most humans
+that makes us really, really uncomfortable if we can’t see our surroundings
+for a length of time. Eliminating that worry by passing through an image
+should improve the chance of long use times. There’s also a clever
+“breakthrough” mechanism that automatically passes a person who comes near
+you
+through your content, alerting you to the fact that they’re approaching. The
+eyes on the outside, which change appearance depending on what you’re doing,
+also provide a nice context cue for those outside.
+
+The resolution means that text is actually readable. Apple’s positioning of
+this as a full on computing device only makes sense if you can actually read
+text in it. All of the previous iterations of “virtual desktop” setups have
+relied on panels and lenses that present too blurry a view to reliably read
+fine text at length. In many cases it literally hurt to do so. Not with the
+Apple Vision Pro – text is super crisp and legible at all sizes and at far
+“distances” within your space.
+
+There were a handful of really surprising moments from my short time with the
+headset, as well. Aside from the sharpness of the display and the snappy
+responsiveness of the interface, the entire suite of samples oozed attention
+to detail.
+
+The Personas Play. I was HIGHLY doubtful that Apple could pull off a workable
+digital avatar based off of just a scan of your face using the Vision Pro
+headset itself. Doubt crushed. I’d say that if you’re measuring the digital
+version of you that it creates to be your avatar in FaceTime calls and other
+areas, it has a solid set of toes on the other side of the uncanny valley.
+It’s not totally perfect, but they got skin tension and muscle work right,
+the
+expressions they have you make are used to interpolate out a full range of
+facial contortions using machine learning models, and the brief interactions
+I
+had with a live person on a call (and it was live, I checked by asking
+off-script stuff) did not feel creepy or odd. It worked.
+
+It’s crisp. I’m sort of stating this again but, really, it’s crisp as hell.
+Running right up to demos like the 3D dinosaur you got right down to the
+texture level and beyond.
+
+3D Movies are actually good in it. Jim Cameron probably had a moment when he
+saw Avatar: Way of Water on the Apple Vision Pro. This thing was absolutely
+born to make the 3D format sing — and it can display them pretty much right
+away, so there’s going to be a decent library of shot-on-3D movies that will
+bring new life to them all. The 3D photos and videos you can take with Apple
+Vision Pro directly also look super great, but I wasn’t able to test
+capturing
+any myself so I don’t know how that will feel yet. Awkward? Hard to say.
+
+The setup is smooth and simple. A couple of minutes and you’re good to go.
+Very Apple.
+
+Yes, it does look that good. The output of the interface and the various apps
+are so good that Apple just used them directly off of the device in its
+keynote. The interface is bright and bold and feels present because of the
+way
+it interacts with other windows, casts shadows on the ground and reacts to
+lighting conditions.
+
+Overall, I’m hesitant to make any broad claims about whether Apple Vision Pro
+is going to fulfill Apple’s claims about the onset of spatial computing. I’ve
+had far too little time with it and it’s not even completed — Apple is still
+working on things like the light shroud and definitely on many software
+aspects.
+
+It is, however, really, really well done. The platonic ideal of an XR
+headset. Now, we wait to see what developers and Apple accomplish over the
+next few months and how the public reacts.
+
+
+
+  ------------- SOURCE ----------------
+
+URL:
+ihttps://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/
+
+LICENSE: © 2023 Yahoo.All rights reserved.
+
+=========================================
+
+
+$
+[B:t] First impressions: Yes, Apple Vision Pro works and yes, it’s good | TechCrunch
