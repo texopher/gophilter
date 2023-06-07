@@ -1,0 +1,51 @@
+=========================================
+              HARD TO READ
+  -------------------------------------
+
+This page is hard to read. Please choose:
+
+[1] Read web via proxy
+
+[1] Read js web via proxy
+
+[1] Read web (details) via proxy
+
+[1] Read js web (details) via proxy
+
+[h] Read web directly
+
+  -------------------------------------
+
+[1] Read Details
+
+FloridaPanthers.com is the official Web site of the Florida Panthers. Florida
+Panthers and floridapanthers.com are trademarks of the Florida Panthers
+Hockey
+Club, Ltd. NHL, the NHL Shield, the word mark and image of the Stanley Cup
+and
+NHL Conference logos are registered trademarks and NHL Draft name and logo
+are
+trademarks of the National Hockey League. All NHL logos and marks and NHL
+team
+logos and marks as well as all other proprietary materials depicted herein
+are
+the property of the NHL and the respective NHL teams and may not be
+reproduced
+without the prior written consent of NHL Enterprises, L.P. Copyright ©
+1999-2020 Florida Panthers Hockey Club, Ltd and the National Hockey League.
+All Rights Reserved.
+
+
+
+  ------------- SOURCE ----------------
+
+URL: https://www.nhl.com/panthers
+
+LICENSE: ©1999-2020 Florida Panthers Hockey Club, Ltd and the National Hockey
+League. All Rights Reserved.
+
+=========================================
+
+
+$
+[B:t] Official Florida Panthers Website | NHL.com
