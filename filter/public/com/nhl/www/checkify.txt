@@ -1,3 +1,4 @@
 
 checkify.txt
 https://www.nhl.com/panthers
+https://www.nhl.com/panthers/schedule
