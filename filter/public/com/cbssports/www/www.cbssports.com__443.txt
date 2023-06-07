@@ -4,3 +4,5 @@ cut_last_same_1=---
 cut_first_same_1=Preview not available
 cut_line_same_1=---
 cut_line_same_2=Preview not available
+hard_read=yes
+hard_read_regex_1=^.*(\\/teams\\/).*$
