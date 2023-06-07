@@ -2,3 +2,5 @@ gophilter=yes
 license=© ESPN Enterprises, Inc. All rights reserved.
 cut_line_end_1=© ESPN Enterprises, Inc. All rights reserved.
 cut_first_end_1=AM ET
+hard_read=yes
+hard_read_regex_1=^.*(\\/team\\/).*$
