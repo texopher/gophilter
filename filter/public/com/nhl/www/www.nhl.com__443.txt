@@ -32,3 +32,5 @@ cut_line_same_24=Stayed tuned to Playoff Central throughout the 2023 Stanley Cup
 cut_line_same_25=Shop the 2023 Stanley Cup Playoffs Collection!
 cut_line_same_26=Shop Reverse Retro Gear
 cut_line_same_27=Account Manager Territory Memberships Flex Plans Single Game Tickets Mobile Ticketing NHL Ticket Exchange
+cut_line_same_28=Promo
+cut_first_same_1=Promo
