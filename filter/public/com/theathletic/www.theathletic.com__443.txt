@@ -1,0 +1,6 @@
+gophilter=yes
+license=©2023 The Athletic Media Company. All rights reserved.
+cut_line_same_1=Advertisement
+cut_line_same_2=See More
+hard_read=yes
+hard_read_all=yes
