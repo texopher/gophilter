@@ -1,0 +1,8 @@
+gophilter=yes
+license=©1999-2020 Florida Panthers Hockey Club, Ltd and the National Hockey League. All Rights Reserved.
+cut_first_same_1=Newsletter
+cut_line_same_1=Newsletter
+cut_line_same_2=Podcasts
+cut_line_same_3=FAQ About us Employment Copyright Policy NHL.com Privacy Policy NHL.com Terms of Service
+cut_line_same_4=Advertisement will run for seconds. ×
+cut_line_start_1=Upcoming Events
