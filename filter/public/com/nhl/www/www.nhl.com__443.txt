@@ -1,7 +1,7 @@
 gophilter=yes
 license=©1999-2020 Florida Panthers Hockey Club, Ltd and the National Hockey League. All Rights Reserved.
-cut_first_start_1=Account Manager Territory Memberships Flex Plans
-cut_line_start_1=Account Manager Territory Memberships Flex Plans
+cut_first_start_1=Account Manager Mobile Ticketing Territory Member Locker Room Mobile Ordering Concessions Map
+cut_line_start_1=Account Manager Mobile Ticketing Territory Member Locker Room Mobile Ordering Concessions Map
 cut_line_same_1=Newsletter
 cut_line_same_2=Podcasts
 cut_line_same_3=FAQ About us Employment Copyright Policy NHL.com Privacy Policy NHL.com Terms of Service
