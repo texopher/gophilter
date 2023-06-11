@@ -1,0 +1,6 @@
+gophilter=yes
+license=Copyright © 2023 Sporting News Holdings Limited. All rights reserved.
+cut_line_same_1=LATEST VIDEOS
+cut_line_same_2=About Us Contact Us Careers Privacy Policy
+cut_line_same_3=Copyright © 2023 Sporting News Holdings Limited. All rights reserved.
+cut_line_same_4=Edition US (ES) Australia Canada 日本 Hong Kong India Argentina España México United Kingdom Singapore Malaysia ไทย Việt Nam
