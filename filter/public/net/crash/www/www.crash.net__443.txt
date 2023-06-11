@@ -1,0 +1,11 @@
+gophilter=yes
+license=©1999-2023 Crash Media Group
+cut_line_same_1=Follow Crash
+cut_line_same_2=Home F1 MotoGP World Superbike BSB BTCC World Rally About Us
+cut_line_same_3=About Us Crash RSS Newsfeeds Contact Crash.Net Privacy Policy
+cut_line_same_4=©1999-2023 Crash Media Group
+cut_line_same_5=The total or partial reproduction of text, photographs or illustrations is not permitted in any form.
+cut_line_same_6=Anonymous Register Log In
+cut_line_same_7=English Bahasa Indonesia
+cut_line_start_1=Home F1 Home News Interviews Features Live Gossip Drivers Results Reports
+cut_line_same_8=Live
