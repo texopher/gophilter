@@ -1,0 +1,5 @@
+gophilter=yes
+cut_last_same_1=NOTICE
+cut_first_same_1=Article
+cut_line_same_1=NOTICE
+cut_line_same_2=Article
