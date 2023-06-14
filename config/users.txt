@@ -3,3 +3,5 @@ url.trends-2023=https://raw.githubusercontent.com/texopher/tg-trends-2023/main
 jsb.trends-2023=yes
 url.checkify-2023=https://raw.githubusercontent.com/texopher/tg-checkify-2023/main
 jsb.checkify-2023=yes
+url.wikibio-2023-06=https://raw.githubusercontent.com/texopher/tg-wikibio-2023-06/main
+jsb.wikibio-2023-06=yes
